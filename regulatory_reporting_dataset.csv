@@ -1,0 +1,521 @@
+Report_ID,Report_Name,Report_Category,Reporting_Period,Deadline,Submission_Date,Status,Responsible_Team,Stakeholder,Error_Count,Manual_Interventions,Processing_Time_Hours,Stakeholder_Satisfaction,Report_Complexity
+RPT-0001,Net Stable Funding Ratio (NSFR) - 2025-Q1,Net Stable Funding Ratio (NSFR),2025-Q1,2025-04-30,2025-05-04,Late,Regulatory Reporting - Liquidity,DNB,0,1,34.3,4,Medium
+RPT-0002,COREP - Own Funds - 2024-Q4,COREP - Own Funds,2024-Q4,2025-01-30,2025-01-30,On Time,Regulatory Reporting - Capital,DNB,2,4,41.3,4,High
+RPT-0003,Net Stable Funding Ratio (NSFR) - 2024-Q4,Net Stable Funding Ratio (NSFR),2024-Q4,2025-01-30,2025-01-30,On Time,Regulatory Reporting - Liquidity,DNB,1,3,14.7,4,Medium
+RPT-0004,FINREP - Financial Reporting - 2025-Q1,FINREP - Financial Reporting,2025-Q1,2025-04-30,2025-05-04,Late,Regulatory Reporting - Capital,ECB,5,6,63.7,4,High
+RPT-0005,Credit Risk RWA Report - 2025-M09,Credit Risk RWA Report,2025-M09,2025-10-15,2025-10-17,Late,Credit Risk Reporting,Internal Risk Committee,1,2,23.5,4,Medium
+RPT-0006,AML/KYC Periodic Review - 2024-Q1,AML/KYC Periodic Review,2024-Q1,2024-04-30,2024-05-02,Late,AML & Compliance Reporting,Internal Compliance Committee,3,4,46.6,3,Medium
+RPT-0007,Net Stable Funding Ratio (NSFR) - 2025-Q3,Net Stable Funding Ratio (NSFR),2025-Q3,2025-10-30,2025-10-31,Late,Regulatory Reporting - Liquidity,DNB,0,4,100.4,3,High
+RPT-0008,Large Exposures Report - 2025-Q2,Large Exposures Report,2025-Q2,2025-07-30,2025-07-30,On Time,Credit Risk Reporting,ECB,1,1,18.2,4,Low
+RPT-0009,DNB Statistical Report - 2025-M09,DNB Statistical Report,2025-M09,2025-10-15,2025-10-16,Late,Statistical Reporting,DNB,0,6,102.7,3,High
+RPT-0010,Liquidity Coverage Ratio (LCR) - 2025-M07,Liquidity Coverage Ratio (LCR),2025-M07,2025-08-15,2025-08-13,On Time,Regulatory Reporting - Liquidity,DNB,1,1,26.0,4,Medium
+RPT-0011,Liquidity Coverage Ratio (LCR) - 2024-M07,Liquidity Coverage Ratio (LCR),2024-M07,2024-08-15,2024-08-21,Missed,Regulatory Reporting - Liquidity,DNB,1,1,26.4,3,Medium
+RPT-0012,Credit Risk RWA Report - 2024-M04,Credit Risk RWA Report,2024-M04,2024-05-15,2024-05-13,On Time,Credit Risk Reporting,Internal Risk Committee,0,0,7.0,5,Low
+RPT-0013,Net Stable Funding Ratio (NSFR) - 2025-Q3,Net Stable Funding Ratio (NSFR),2025-Q3,2025-10-30,2025-10-26,On Time,Regulatory Reporting - Liquidity,DNB,0,0,12.4,4,Low
+RPT-0014,DNB Statistical Report - 2025-M08,DNB Statistical Report,2025-M08,2025-09-15,2025-09-21,Missed,Statistical Reporting,DNB,7,8,71.1,2,High
+RPT-0015,Basel III Leverage Ratio - 2024-Q4,Basel III Leverage Ratio,2024-Q4,2025-01-30,2025-01-30,On Time,Regulatory Reporting - Capital,ECB,0,3,93.0,5,High
+RPT-0016,DNB Statistical Report - 2025-M04,DNB Statistical Report,2025-M04,2025-05-15,2025-05-16,Late,Statistical Reporting,DNB,2,2,51.6,3,High
+RPT-0017,Large Exposures Report - 2025-Q2,Large Exposures Report,2025-Q2,2025-07-30,2025-07-31,Late,Credit Risk Reporting,ECB,2,6,24.3,3,Medium
+RPT-0018,Credit Risk RWA Report - 2025-M02,Credit Risk RWA Report,2025-M02,2025-03-15,2025-03-18,Late,Credit Risk Reporting,Internal Risk Committee,3,6,71.0,3,High
+RPT-0019,DNB Statistical Report - 2024-M08,DNB Statistical Report,2024-M08,2024-09-15,2024-09-16,Late,Statistical Reporting,DNB,0,0,5.5,4,Low
+RPT-0020,FINREP - Financial Reporting - 2025-Q2,FINREP - Financial Reporting,2025-Q2,2025-07-30,2025-07-30,On Time,Regulatory Reporting - Capital,ECB,4,8,24.1,4,Medium
+RPT-0021,Large Exposures Report - 2025-Q3,Large Exposures Report,2025-Q3,2025-10-30,2025-11-02,Late,Credit Risk Reporting,ECB,3,3,97.9,3,High
+RPT-0022,Net Stable Funding Ratio (NSFR) - 2024-Q3,Net Stable Funding Ratio (NSFR),2024-Q3,2024-10-30,2024-10-28,On Time,Regulatory Reporting - Liquidity,DNB,0,6,93.9,5,High
+RPT-0023,FINREP - Financial Reporting - 2024-Q1,FINREP - Financial Reporting,2024-Q1,2024-04-30,2024-05-01,Late,Regulatory Reporting - Capital,ECB,1,4,25.2,4,Medium
+RPT-0024,COREP - Own Funds - 2025-Q3,COREP - Own Funds,2025-Q3,2025-10-30,2025-10-27,On Time,Regulatory Reporting - Capital,DNB,1,2,13.3,4,Low
+RPT-0025,Net Stable Funding Ratio (NSFR) - 2024-Q2,Net Stable Funding Ratio (NSFR),2024-Q2,2024-07-30,2024-08-06,Missed,Regulatory Reporting - Liquidity,DNB,5,13,102.6,2,High
+RPT-0026,Liquidity Coverage Ratio (LCR) - 2024-M08,Liquidity Coverage Ratio (LCR),2024-M08,2024-09-15,2024-09-15,On Time,Regulatory Reporting - Liquidity,DNB,1,2,34.7,4,Medium
+RPT-0027,AnaCredit Report - 2024-M05,AnaCredit Report,2024-M05,2024-06-15,2024-06-19,Late,Credit Risk Reporting,DNB,6,8,97.4,3,High
+RPT-0028,Credit Risk RWA Report - 2025-M07,Credit Risk RWA Report,2025-M07,2025-08-15,2025-08-18,Late,Credit Risk Reporting,Internal Risk Committee,0,2,19.7,4,Medium
+RPT-0029,Credit Risk RWA Report - 2024-M09,Credit Risk RWA Report,2024-M09,2024-10-15,2024-10-18,Late,Credit Risk Reporting,Internal Risk Committee,6,5,83.5,3,High
+RPT-0030,Net Stable Funding Ratio (NSFR) - 2024-Q2,Net Stable Funding Ratio (NSFR),2024-Q2,2024-07-30,2024-07-29,On Time,Regulatory Reporting - Liquidity,DNB,4,3,35.6,3,Medium
+RPT-0031,COREP - Own Funds - 2024-Q1,COREP - Own Funds,2024-Q1,2024-04-30,2024-04-29,On Time,Regulatory Reporting - Capital,DNB,2,1,44.9,4,Medium
+RPT-0032,DNB Statistical Report - 2024-M03,DNB Statistical Report,2024-M03,2024-04-15,2024-04-17,Late,Statistical Reporting,DNB,2,7,55.4,4,High
+RPT-0033,Liquidity Coverage Ratio (LCR) - 2025-M08,Liquidity Coverage Ratio (LCR),2025-M08,2025-09-15,2025-09-16,Late,Regulatory Reporting - Liquidity,DNB,2,2,24.8,4,Medium
+RPT-0034,Large Exposures Report - 2025-Q3,Large Exposures Report,2025-Q3,2025-10-30,2025-10-28,On Time,Credit Risk Reporting,ECB,1,3,12.2,4,Low
+RPT-0035,Basel III Leverage Ratio - 2024-Q1,Basel III Leverage Ratio,2024-Q1,2024-04-30,2024-05-02,Late,Regulatory Reporting - Capital,ECB,1,4,38.9,4,Medium
+RPT-0036,AML/KYC Periodic Review - 2024-Q2,AML/KYC Periodic Review,2024-Q2,2024-07-30,2024-08-03,Late,AML & Compliance Reporting,Internal Compliance Committee,2,6,20.0,4,Medium
+RPT-0037,Liquidity Coverage Ratio (LCR) - 2024-M06,Liquidity Coverage Ratio (LCR),2024-M06,2024-07-15,2024-07-18,Late,Regulatory Reporting - Liquidity,DNB,1,2,50.9,4,Medium
+RPT-0038,AnaCredit Report - 2025-M05,AnaCredit Report,2025-M05,2025-06-15,2025-06-17,Late,Credit Risk Reporting,DNB,1,8,56.7,3,High
+RPT-0039,FINREP - Financial Reporting - 2024-Q1,FINREP - Financial Reporting,2024-Q1,2024-04-30,2024-05-01,Late,Regulatory Reporting - Capital,ECB,1,2,71.9,3,High
+RPT-0040,Net Stable Funding Ratio (NSFR) - 2025-Q2,Net Stable Funding Ratio (NSFR),2025-Q2,2025-07-30,2025-07-27,On Time,Regulatory Reporting - Liquidity,DNB,1,1,25.9,4,Medium
+RPT-0041,COREP - Own Funds - 2024-Q4,COREP - Own Funds,2024-Q4,2025-01-30,2025-01-30,On Time,Regulatory Reporting - Capital,DNB,4,6,91.5,4,High
+RPT-0042,AnaCredit Report - 2025-M03,AnaCredit Report,2025-M03,2025-04-15,2025-04-08,On Time,Credit Risk Reporting,DNB,0,0,11.6,5,Low
+RPT-0043,Net Stable Funding Ratio (NSFR) - 2024-Q1,Net Stable Funding Ratio (NSFR),2024-Q1,2024-04-30,2024-05-02,Late,Regulatory Reporting - Liquidity,DNB,5,6,92.8,3,High
+RPT-0044,FINREP - Financial Reporting - 2025-Q2,FINREP - Financial Reporting,2025-Q2,2025-07-30,2025-07-31,Late,Regulatory Reporting - Capital,ECB,5,2,46.7,3,High
+RPT-0045,AML/KYC Periodic Review - 2025-Q2,AML/KYC Periodic Review,2025-Q2,2025-07-30,2025-08-01,Late,AML & Compliance Reporting,Internal Compliance Committee,1,5,74.5,4,High
+RPT-0046,FINREP - Financial Reporting - 2024-Q4,FINREP - Financial Reporting,2024-Q4,2025-01-30,2025-01-29,On Time,Regulatory Reporting - Capital,ECB,1,4,27.4,4,Medium
+RPT-0047,AnaCredit Report - 2024-M03,AnaCredit Report,2024-M03,2024-04-15,2024-04-13,On Time,Credit Risk Reporting,DNB,3,2,44.6,4,Medium
+RPT-0048,FINREP - Financial Reporting - 2025-Q1,FINREP - Financial Reporting,2025-Q1,2025-04-30,2025-04-25,On Time,Regulatory Reporting - Capital,ECB,4,5,26.7,4,Medium
+RPT-0049,Net Stable Funding Ratio (NSFR) - 2024-Q2,Net Stable Funding Ratio (NSFR),2024-Q2,2024-07-30,2024-07-31,Late,Regulatory Reporting - Liquidity,DNB,4,3,38.9,3,Medium
+RPT-0050,Liquidity Coverage Ratio (LCR) - 2024-M01,Liquidity Coverage Ratio (LCR),2024-M01,2024-02-15,2024-02-17,Late,Regulatory Reporting - Liquidity,DNB,1,2,10.3,4,Low
+RPT-0051,FINREP - Financial Reporting - 2025-Q3,FINREP - Financial Reporting,2025-Q3,2025-10-30,2025-10-30,On Time,Regulatory Reporting - Capital,ECB,3,6,38.9,4,Medium
+RPT-0052,AnaCredit Report - 2024-M12,AnaCredit Report,2024-M12,2025-01-15,2025-01-19,Late,Credit Risk Reporting,DNB,7,10,86.5,2,High
+RPT-0053,AML/KYC Periodic Review - 2025-Q1,AML/KYC Periodic Review,2025-Q1,2025-04-30,2025-04-29,On Time,AML & Compliance Reporting,Internal Compliance Committee,3,5,25.3,4,Medium
+RPT-0054,Liquidity Coverage Ratio (LCR) - 2025-M06,Liquidity Coverage Ratio (LCR),2025-M06,2025-07-15,2025-07-12,On Time,Regulatory Reporting - Liquidity,DNB,3,3,26.4,4,Medium
+RPT-0055,Basel III Leverage Ratio - 2025-Q2,Basel III Leverage Ratio,2025-Q2,2025-07-30,2025-07-24,On Time,Regulatory Reporting - Capital,ECB,0,0,18.6,5,Low
+RPT-0056,Large Exposures Report - 2024-Q2,Large Exposures Report,2024-Q2,2024-07-30,2024-07-25,On Time,Credit Risk Reporting,ECB,0,1,28.0,5,Medium
+RPT-0057,Basel III Leverage Ratio - 2024-Q2,Basel III Leverage Ratio,2024-Q2,2024-07-30,2024-07-25,On Time,Regulatory Reporting - Capital,ECB,0,1,20.6,5,Medium
+RPT-0058,COREP - Own Funds - 2025-Q2,COREP - Own Funds,2025-Q2,2025-07-30,2025-08-04,Late,Regulatory Reporting - Capital,DNB,2,9,28.9,4,Medium
+RPT-0059,Basel III Leverage Ratio - 2025-Q1,Basel III Leverage Ratio,2025-Q1,2025-04-30,2025-05-02,Late,Regulatory Reporting - Capital,ECB,3,4,88.9,3,High
+RPT-0060,Credit Risk RWA Report - 2024-M12,Credit Risk RWA Report,2024-M12,2025-01-15,2025-01-14,On Time,Credit Risk Reporting,Internal Risk Committee,0,3,18.6,4,Low
+RPT-0061,DNB Statistical Report - 2024-M07,DNB Statistical Report,2024-M07,2024-08-15,2024-08-13,On Time,Statistical Reporting,DNB,2,4,10.3,4,Low
+RPT-0062,AML/KYC Periodic Review - 2025-Q1,AML/KYC Periodic Review,2025-Q1,2025-04-30,2025-04-28,On Time,AML & Compliance Reporting,Internal Compliance Committee,1,3,2.0,5,Low
+RPT-0063,Net Stable Funding Ratio (NSFR) - 2024-Q2,Net Stable Funding Ratio (NSFR),2024-Q2,2024-07-30,2024-07-29,On Time,Regulatory Reporting - Liquidity,DNB,4,2,28.1,3,Medium
+RPT-0064,AnaCredit Report - 2025-M07,AnaCredit Report,2025-M07,2025-08-15,2025-08-17,Late,Credit Risk Reporting,DNB,4,5,47.8,3,High
+RPT-0065,DNB Statistical Report - 2024-M06,DNB Statistical Report,2024-M06,2024-07-15,2024-07-15,On Time,Statistical Reporting,DNB,4,7,22.5,4,Medium
+RPT-0066,FINREP - Financial Reporting - 2025-Q1,FINREP - Financial Reporting,2025-Q1,2025-04-30,2025-05-04,Late,Regulatory Reporting - Capital,ECB,3,3,66.2,3,High
+RPT-0067,DNB Statistical Report - 2025-M02,DNB Statistical Report,2025-M02,2025-03-15,2025-03-16,Late,Statistical Reporting,DNB,0,1,20.0,4,Medium
+RPT-0068,Liquidity Coverage Ratio (LCR) - 2025-M06,Liquidity Coverage Ratio (LCR),2025-M06,2025-07-15,2025-07-22,Missed,Regulatory Reporting - Liquidity,DNB,1,4,30.3,3,Medium
+RPT-0069,Liquidity Coverage Ratio (LCR) - 2024-M10,Liquidity Coverage Ratio (LCR),2024-M10,2024-11-15,2024-11-13,On Time,Regulatory Reporting - Liquidity,DNB,0,0,18.3,5,Low
+RPT-0070,DNB Statistical Report - 2024-M05,DNB Statistical Report,2024-M05,2024-06-15,2024-06-13,On Time,Statistical Reporting,DNB,1,2,6.4,4,Low
+RPT-0071,Basel III Leverage Ratio - 2025-Q2,Basel III Leverage Ratio,2025-Q2,2025-07-30,2025-07-28,On Time,Regulatory Reporting - Capital,ECB,1,4,103.1,4,High
+RPT-0072,Liquidity Coverage Ratio (LCR) - 2024-M09,Liquidity Coverage Ratio (LCR),2024-M09,2024-10-15,2024-10-15,On Time,Regulatory Reporting - Liquidity,DNB,3,6,114.4,4,High
+RPT-0073,Basel III Leverage Ratio - 2024-Q1,Basel III Leverage Ratio,2024-Q1,2024-04-30,2024-04-29,On Time,Regulatory Reporting - Capital,ECB,1,3,49.3,4,High
+RPT-0074,COREP - Own Funds - 2024-Q4,COREP - Own Funds,2024-Q4,2025-01-30,2025-02-01,Late,Regulatory Reporting - Capital,DNB,1,1,16.7,4,Low
+RPT-0075,AnaCredit Report - 2025-M01,AnaCredit Report,2025-M01,2025-02-15,2025-02-16,Late,Credit Risk Reporting,DNB,1,3,77.4,3,High
+RPT-0076,Basel III Leverage Ratio - 2025-Q1,Basel III Leverage Ratio,2025-Q1,2025-04-30,2025-05-02,Late,Regulatory Reporting - Capital,ECB,0,7,49.3,3,High
+RPT-0077,Credit Risk RWA Report - 2025-M05,Credit Risk RWA Report,2025-M05,2025-06-15,2025-06-10,On Time,Credit Risk Reporting,Internal Risk Committee,0,0,10.2,4,Low
+RPT-0078,FINREP - Financial Reporting - 2025-Q1,FINREP - Financial Reporting,2025-Q1,2025-04-30,2025-04-27,On Time,Regulatory Reporting - Capital,ECB,0,1,47.7,5,Medium
+RPT-0079,AnaCredit Report - 2024-M01,AnaCredit Report,2024-M01,2024-02-15,2024-02-18,Late,Credit Risk Reporting,DNB,0,2,6.4,4,Low
+RPT-0080,Basel III Leverage Ratio - 2024-Q3,Basel III Leverage Ratio,2024-Q3,2024-10-30,2024-11-03,Late,Regulatory Reporting - Capital,ECB,3,7,78.5,3,High
+RPT-0081,Net Stable Funding Ratio (NSFR) - 2024-Q3,Net Stable Funding Ratio (NSFR),2024-Q3,2024-10-30,2024-10-30,On Time,Regulatory Reporting - Liquidity,DNB,2,9,87.0,4,High
+RPT-0082,COREP - Own Funds - 2025-Q1,COREP - Own Funds,2025-Q1,2025-04-30,2025-04-26,On Time,Regulatory Reporting - Capital,DNB,0,4,9.0,5,Medium
+RPT-0083,FINREP - Financial Reporting - 2024-Q1,FINREP - Financial Reporting,2024-Q1,2024-04-30,2024-04-25,On Time,Regulatory Reporting - Capital,ECB,3,3,39.2,4,Medium
+RPT-0084,Credit Risk RWA Report - 2024-M09,Credit Risk RWA Report,2024-M09,2024-10-15,2024-10-20,Late,Credit Risk Reporting,Internal Risk Committee,0,0,15.8,4,Low
+RPT-0085,DNB Statistical Report - 2024-M10,DNB Statistical Report,2024-M10,2024-11-15,2024-11-12,On Time,Statistical Reporting,DNB,2,3,43.7,4,Medium
+RPT-0086,COREP - Own Funds - 2024-Q4,COREP - Own Funds,2024-Q4,2025-01-30,2025-02-03,Late,Regulatory Reporting - Capital,DNB,1,1,37.4,4,Medium
+RPT-0087,Basel III Leverage Ratio - 2024-Q2,Basel III Leverage Ratio,2024-Q2,2024-07-30,2024-08-09,Missed,Regulatory Reporting - Capital,ECB,5,6,94.6,2,High
+RPT-0088,AML/KYC Periodic Review - 2025-Q1,AML/KYC Periodic Review,2025-Q1,2025-04-30,2025-05-04,Late,AML & Compliance Reporting,Internal Compliance Committee,1,9,79.7,3,High
+RPT-0089,AML/KYC Periodic Review - 2025-Q1,AML/KYC Periodic Review,2025-Q1,2025-04-30,2025-05-04,Late,AML & Compliance Reporting,Internal Compliance Committee,4,4,89.4,3,High
+RPT-0090,Large Exposures Report - 2025-Q1,Large Exposures Report,2025-Q1,2025-04-30,2025-04-28,On Time,Credit Risk Reporting,ECB,4,7,47.4,4,High
+RPT-0091,Net Stable Funding Ratio (NSFR) - 2024-Q1,Net Stable Funding Ratio (NSFR),2024-Q1,2024-04-30,2024-04-29,On Time,Regulatory Reporting - Liquidity,DNB,2,3,41.2,5,Medium
+RPT-0092,FINREP - Financial Reporting - 2025-Q1,FINREP - Financial Reporting,2025-Q1,2025-04-30,2025-05-01,Late,Regulatory Reporting - Capital,ECB,0,2,32.3,4,Medium
+RPT-0093,Large Exposures Report - 2024-Q1,Large Exposures Report,2024-Q1,2024-04-30,2024-05-03,Late,Credit Risk Reporting,ECB,1,3,74.7,3,High
+RPT-0094,FINREP - Financial Reporting - 2024-Q3,FINREP - Financial Reporting,2024-Q3,2024-10-30,2024-10-30,On Time,Regulatory Reporting - Capital,ECB,0,0,34.2,5,Medium
+RPT-0095,Large Exposures Report - 2025-Q3,Large Exposures Report,2025-Q3,2025-10-30,2025-10-29,On Time,Credit Risk Reporting,ECB,2,1,23.0,4,Medium
+RPT-0096,FINREP - Financial Reporting - 2025-Q2,FINREP - Financial Reporting,2025-Q2,2025-07-30,2025-07-30,On Time,Regulatory Reporting - Capital,ECB,5,8,53.3,3,High
+RPT-0097,DNB Statistical Report - 2025-M06,DNB Statistical Report,2025-M06,2025-07-15,2025-07-15,On Time,Statistical Reporting,DNB,3,1,25.3,4,Medium
+RPT-0098,Net Stable Funding Ratio (NSFR) - 2025-Q2,Net Stable Funding Ratio (NSFR),2025-Q2,2025-07-30,2025-07-24,On Time,Regulatory Reporting - Liquidity,DNB,1,2,16.6,4,Medium
+RPT-0099,Net Stable Funding Ratio (NSFR) - 2024-Q4,Net Stable Funding Ratio (NSFR),2024-Q4,2025-01-30,2025-01-26,On Time,Regulatory Reporting - Liquidity,DNB,4,2,15.7,4,Low
+RPT-0100,Liquidity Coverage Ratio (LCR) - 2024-M04,Liquidity Coverage Ratio (LCR),2024-M04,2024-05-15,2024-05-13,On Time,Regulatory Reporting - Liquidity,DNB,0,3,33.9,5,Medium
+RPT-0101,Credit Risk RWA Report - 2025-M03,Credit Risk RWA Report,2025-M03,2025-04-15,2025-04-15,On Time,Credit Risk Reporting,Internal Risk Committee,5,6,29.1,3,Medium
+RPT-0102,FINREP - Financial Reporting - 2025-Q3,FINREP - Financial Reporting,2025-Q3,2025-10-30,2025-11-02,Late,Regulatory Reporting - Capital,ECB,5,5,34.9,3,Medium
+RPT-0103,Net Stable Funding Ratio (NSFR) - 2025-Q1,Net Stable Funding Ratio (NSFR),2025-Q1,2025-04-30,2025-05-04,Late,Regulatory Reporting - Liquidity,DNB,4,8,88.6,3,High
+RPT-0104,FINREP - Financial Reporting - 2024-Q3,FINREP - Financial Reporting,2024-Q3,2024-10-30,2024-11-01,Late,Regulatory Reporting - Capital,ECB,2,3,25.6,4,Medium
+RPT-0105,Credit Risk RWA Report - 2025-M02,Credit Risk RWA Report,2025-M02,2025-03-15,2025-03-14,On Time,Credit Risk Reporting,Internal Risk Committee,0,0,8.8,4,Low
+RPT-0106,Net Stable Funding Ratio (NSFR) - 2024-Q4,Net Stable Funding Ratio (NSFR),2024-Q4,2025-01-30,2025-02-03,Late,Regulatory Reporting - Liquidity,DNB,1,1,37.6,4,Medium
+RPT-0107,Liquidity Coverage Ratio (LCR) - 2024-M03,Liquidity Coverage Ratio (LCR),2024-M03,2024-04-15,2024-04-09,On Time,Regulatory Reporting - Liquidity,DNB,1,2,2.5,4,Low
+RPT-0108,AML/KYC Periodic Review - 2025-Q3,AML/KYC Periodic Review,2025-Q3,2025-10-30,2025-11-02,Late,AML & Compliance Reporting,Internal Compliance Committee,1,6,22.1,4,Medium
+RPT-0109,AnaCredit Report - 2024-M06,AnaCredit Report,2024-M06,2024-07-15,2024-07-16,Late,Credit Risk Reporting,DNB,0,2,40.5,4,Medium
+RPT-0110,Net Stable Funding Ratio (NSFR) - 2024-Q2,Net Stable Funding Ratio (NSFR),2024-Q2,2024-07-30,2024-08-01,Late,Regulatory Reporting - Liquidity,DNB,7,9,76.3,2,High
+RPT-0111,Net Stable Funding Ratio (NSFR) - 2024-Q2,Net Stable Funding Ratio (NSFR),2024-Q2,2024-07-30,2024-07-30,On Time,Regulatory Reporting - Liquidity,DNB,0,4,24.4,4,Medium
+RPT-0112,Basel III Leverage Ratio - 2025-Q1,Basel III Leverage Ratio,2025-Q1,2025-04-30,2025-04-28,On Time,Regulatory Reporting - Capital,ECB,0,0,19.4,5,Medium
+RPT-0113,Credit Risk RWA Report - 2025-M01,Credit Risk RWA Report,2025-M01,2025-02-15,2025-02-13,On Time,Credit Risk Reporting,Internal Risk Committee,0,0,104.8,4,High
+RPT-0114,Net Stable Funding Ratio (NSFR) - 2025-Q1,Net Stable Funding Ratio (NSFR),2025-Q1,2025-04-30,2025-04-29,On Time,Regulatory Reporting - Liquidity,DNB,2,3,79.9,4,High
+RPT-0115,COREP - Own Funds - 2024-Q4,COREP - Own Funds,2024-Q4,2025-01-30,2025-01-30,On Time,Regulatory Reporting - Capital,DNB,3,8,83.2,4,High
+RPT-0116,AML/KYC Periodic Review - 2025-Q1,AML/KYC Periodic Review,2025-Q1,2025-04-30,2025-04-29,On Time,AML & Compliance Reporting,Internal Compliance Committee,2,2,49.7,4,High
+RPT-0117,COREP - Own Funds - 2024-Q4,COREP - Own Funds,2024-Q4,2025-01-30,2025-01-31,Late,Regulatory Reporting - Capital,DNB,4,9,74.7,3,High
+RPT-0118,Liquidity Coverage Ratio (LCR) - 2024-M08,Liquidity Coverage Ratio (LCR),2024-M08,2024-09-15,2024-09-14,On Time,Regulatory Reporting - Liquidity,DNB,1,4,34.5,5,Medium
+RPT-0119,DNB Statistical Report - 2025-M01,DNB Statistical Report,2025-M01,2025-02-15,2025-02-14,On Time,Statistical Reporting,DNB,0,0,19.8,4,Low
+RPT-0120,Large Exposures Report - 2024-Q4,Large Exposures Report,2024-Q4,2025-01-30,2025-02-01,Late,Credit Risk Reporting,ECB,0,2,39.7,4,Medium
+RPT-0121,Liquidity Coverage Ratio (LCR) - 2024-M06,Liquidity Coverage Ratio (LCR),2024-M06,2024-07-15,2024-07-13,On Time,Regulatory Reporting - Liquidity,DNB,1,0,13.8,4,Low
+RPT-0122,Credit Risk RWA Report - 2025-M06,Credit Risk RWA Report,2025-M06,2025-07-15,2025-07-14,On Time,Credit Risk Reporting,Internal Risk Committee,2,2,20.9,4,Medium
+RPT-0123,COREP - Own Funds - 2024-Q3,COREP - Own Funds,2024-Q3,2024-10-30,2024-10-29,On Time,Regulatory Reporting - Capital,DNB,4,6,68.2,3,High
+RPT-0124,COREP - Own Funds - 2025-Q2,COREP - Own Funds,2025-Q2,2025-07-30,2025-08-02,Late,Regulatory Reporting - Capital,DNB,2,6,63.4,4,High
+RPT-0125,DNB Statistical Report - 2025-M07,DNB Statistical Report,2025-M07,2025-08-15,2025-08-13,On Time,Statistical Reporting,DNB,0,1,12.9,5,Low
+RPT-0126,Basel III Leverage Ratio - 2024-Q4,Basel III Leverage Ratio,2024-Q4,2025-01-30,2025-01-30,On Time,Regulatory Reporting - Capital,ECB,0,1,15.1,5,Low
+RPT-0127,FINREP - Financial Reporting - 2024-Q1,FINREP - Financial Reporting,2024-Q1,2024-04-30,2024-04-30,On Time,Regulatory Reporting - Capital,ECB,3,2,37.3,4,Medium
+RPT-0128,Large Exposures Report - 2024-Q2,Large Exposures Report,2024-Q2,2024-07-30,2024-07-24,On Time,Credit Risk Reporting,ECB,0,5,35.0,5,Medium
+RPT-0129,AML/KYC Periodic Review - 2024-Q4,AML/KYC Periodic Review,2024-Q4,2025-01-30,2025-01-29,On Time,AML & Compliance Reporting,Internal Compliance Committee,1,1,48.8,5,Medium
+RPT-0130,AnaCredit Report - 2025-M07,AnaCredit Report,2025-M07,2025-08-15,2025-08-11,On Time,Credit Risk Reporting,DNB,3,1,18.7,4,Medium
+RPT-0131,Liquidity Coverage Ratio (LCR) - 2024-M01,Liquidity Coverage Ratio (LCR),2024-M01,2024-02-15,2024-02-16,Late,Regulatory Reporting - Liquidity,DNB,2,3,16.3,4,Low
+RPT-0132,Net Stable Funding Ratio (NSFR) - 2024-Q1,Net Stable Funding Ratio (NSFR),2024-Q1,2024-04-30,2024-05-04,Late,Regulatory Reporting - Liquidity,DNB,4,9,57.0,3,High
+RPT-0133,DNB Statistical Report - 2024-M04,DNB Statistical Report,2024-M04,2024-05-15,2024-05-13,On Time,Statistical Reporting,DNB,0,0,17.4,4,Low
+RPT-0134,Net Stable Funding Ratio (NSFR) - 2024-Q4,Net Stable Funding Ratio (NSFR),2024-Q4,2025-01-30,2025-01-29,On Time,Regulatory Reporting - Liquidity,DNB,1,2,105.8,4,High
+RPT-0135,Liquidity Coverage Ratio (LCR) - 2024-M10,Liquidity Coverage Ratio (LCR),2024-M10,2024-11-15,2024-11-14,On Time,Regulatory Reporting - Liquidity,DNB,1,4,63.1,4,High
+RPT-0136,AnaCredit Report - 2025-M03,AnaCredit Report,2025-M03,2025-04-15,2025-04-15,On Time,Credit Risk Reporting,DNB,4,8,67.0,4,High
+RPT-0137,COREP - Own Funds - 2025-Q2,COREP - Own Funds,2025-Q2,2025-07-30,2025-08-01,Late,Regulatory Reporting - Capital,DNB,5,5,77.8,3,High
+RPT-0138,AnaCredit Report - 2024-M10,AnaCredit Report,2024-M10,2024-11-15,2024-11-21,Missed,Credit Risk Reporting,DNB,2,6,96.9,3,High
+RPT-0139,AnaCredit Report - 2024-M02,AnaCredit Report,2024-M02,2024-03-15,2024-03-16,Late,Credit Risk Reporting,DNB,1,1,13.0,4,Low
+RPT-0140,Credit Risk RWA Report - 2024-M12,Credit Risk RWA Report,2024-M12,2025-01-15,2025-01-14,On Time,Credit Risk Reporting,Internal Risk Committee,3,6,23.5,4,Medium
+RPT-0141,FINREP - Financial Reporting - 2025-Q1,FINREP - Financial Reporting,2025-Q1,2025-04-30,2025-05-01,Late,Regulatory Reporting - Capital,ECB,5,7,102.3,3,High
+RPT-0142,COREP - Own Funds - 2024-Q4,COREP - Own Funds,2024-Q4,2025-01-30,2025-02-03,Late,Regulatory Reporting - Capital,DNB,4,9,51.3,3,High
+RPT-0143,COREP - Own Funds - 2025-Q1,COREP - Own Funds,2025-Q1,2025-04-30,2025-05-03,Late,Regulatory Reporting - Capital,DNB,2,7,100.7,4,High
+RPT-0144,Credit Risk RWA Report - 2024-M03,Credit Risk RWA Report,2024-M03,2024-04-15,2024-04-17,Late,Credit Risk Reporting,Internal Risk Committee,1,2,74.3,4,High
+RPT-0145,DNB Statistical Report - 2025-M06,DNB Statistical Report,2025-M06,2025-07-15,2025-07-10,On Time,Statistical Reporting,DNB,2,2,35.4,4,Medium
+RPT-0146,COREP - Own Funds - 2025-Q2,COREP - Own Funds,2025-Q2,2025-07-30,2025-08-01,Late,Regulatory Reporting - Capital,DNB,4,4,40.0,4,Medium
+RPT-0147,COREP - Own Funds - 2025-Q2,COREP - Own Funds,2025-Q2,2025-07-30,2025-07-26,On Time,Regulatory Reporting - Capital,DNB,0,0,17.0,5,Low
+RPT-0148,COREP - Own Funds - 2024-Q4,COREP - Own Funds,2024-Q4,2025-01-30,2025-01-31,Late,Regulatory Reporting - Capital,DNB,1,4,94.5,4,High
+RPT-0149,COREP - Own Funds - 2024-Q4,COREP - Own Funds,2024-Q4,2025-01-30,2025-02-02,Late,Regulatory Reporting - Capital,DNB,1,0,31.9,4,Medium
+RPT-0150,Credit Risk RWA Report - 2025-M02,Credit Risk RWA Report,2025-M02,2025-03-15,2025-03-18,Late,Credit Risk Reporting,Internal Risk Committee,7,8,85.1,2,High
+RPT-0151,Net Stable Funding Ratio (NSFR) - 2024-Q4,Net Stable Funding Ratio (NSFR),2024-Q4,2025-01-30,2025-01-29,On Time,Regulatory Reporting - Liquidity,DNB,5,9,103.2,3,High
+RPT-0152,Liquidity Coverage Ratio (LCR) - 2024-M05,Liquidity Coverage Ratio (LCR),2024-M05,2024-06-15,2024-06-16,Late,Regulatory Reporting - Liquidity,DNB,1,3,39.6,4,Medium
+RPT-0153,FINREP - Financial Reporting - 2024-Q4,FINREP - Financial Reporting,2024-Q4,2025-01-30,2025-02-03,Late,Regulatory Reporting - Capital,ECB,2,6,97.6,3,High
+RPT-0154,DNB Statistical Report - 2024-M01,DNB Statistical Report,2024-M01,2024-02-15,2024-02-12,On Time,Statistical Reporting,DNB,0,2,30.3,4,Medium
+RPT-0155,Credit Risk RWA Report - 2024-M09,Credit Risk RWA Report,2024-M09,2024-10-15,2024-10-25,Missed,Credit Risk Reporting,Internal Risk Committee,6,3,102.9,2,High
+RPT-0156,COREP - Own Funds - 2025-Q3,COREP - Own Funds,2025-Q3,2025-10-30,2025-10-29,On Time,Regulatory Reporting - Capital,DNB,1,1,15.5,5,Low
+RPT-0157,Net Stable Funding Ratio (NSFR) - 2024-Q3,Net Stable Funding Ratio (NSFR),2024-Q3,2024-10-30,2024-10-30,On Time,Regulatory Reporting - Liquidity,DNB,0,0,14.5,5,Low
+RPT-0158,AML/KYC Periodic Review - 2025-Q3,AML/KYC Periodic Review,2025-Q3,2025-10-30,2025-10-26,On Time,AML & Compliance Reporting,Internal Compliance Committee,1,4,28.2,4,Medium
+RPT-0159,COREP - Own Funds - 2024-Q4,COREP - Own Funds,2024-Q4,2025-01-30,2025-01-28,On Time,Regulatory Reporting - Capital,DNB,3,3,23.3,4,Medium
+RPT-0160,COREP - Own Funds - 2025-Q2,COREP - Own Funds,2025-Q2,2025-07-30,2025-07-26,On Time,Regulatory Reporting - Capital,DNB,0,0,12.3,5,Low
+RPT-0161,Liquidity Coverage Ratio (LCR) - 2024-M05,Liquidity Coverage Ratio (LCR),2024-M05,2024-06-15,2024-06-08,On Time,Regulatory Reporting - Liquidity,DNB,0,5,67.2,4,High
+RPT-0162,AnaCredit Report - 2025-M01,AnaCredit Report,2025-M01,2025-02-15,2025-02-16,Late,Credit Risk Reporting,DNB,1,4,100.8,4,High
+RPT-0163,Net Stable Funding Ratio (NSFR) - 2024-Q4,Net Stable Funding Ratio (NSFR),2024-Q4,2025-01-30,2025-01-28,On Time,Regulatory Reporting - Liquidity,DNB,2,3,46.3,4,Medium
+RPT-0164,Basel III Leverage Ratio - 2025-Q1,Basel III Leverage Ratio,2025-Q1,2025-04-30,2025-04-27,On Time,Regulatory Reporting - Capital,ECB,1,5,26.0,4,Medium
+RPT-0165,Basel III Leverage Ratio - 2024-Q4,Basel III Leverage Ratio,2024-Q4,2025-01-30,2025-02-04,Late,Regulatory Reporting - Capital,ECB,9,9,103.1,2,High
+RPT-0166,Liquidity Coverage Ratio (LCR) - 2024-M03,Liquidity Coverage Ratio (LCR),2024-M03,2024-04-15,2024-04-12,On Time,Regulatory Reporting - Liquidity,DNB,2,2,28.6,4,Medium
+RPT-0167,Liquidity Coverage Ratio (LCR) - 2025-M04,Liquidity Coverage Ratio (LCR),2025-M04,2025-05-15,2025-05-20,Late,Regulatory Reporting - Liquidity,DNB,0,5,67.5,4,High
+RPT-0168,COREP - Own Funds - 2025-Q1,COREP - Own Funds,2025-Q1,2025-04-30,2025-04-29,On Time,Regulatory Reporting - Capital,DNB,2,6,89.2,4,High
+RPT-0169,AML/KYC Periodic Review - 2025-Q1,AML/KYC Periodic Review,2025-Q1,2025-04-30,2025-04-30,On Time,AML & Compliance Reporting,Internal Compliance Committee,2,3,15.3,4,Medium
+RPT-0170,Liquidity Coverage Ratio (LCR) - 2024-M07,Liquidity Coverage Ratio (LCR),2024-M07,2024-08-15,2024-08-16,Late,Regulatory Reporting - Liquidity,DNB,4,5,28.2,3,Medium
+RPT-0171,Liquidity Coverage Ratio (LCR) - 2025-M02,Liquidity Coverage Ratio (LCR),2025-M02,2025-03-15,2025-03-24,Missed,Regulatory Reporting - Liquidity,DNB,1,5,101.5,3,High
+RPT-0172,COREP - Own Funds - 2024-Q2,COREP - Own Funds,2024-Q2,2024-07-30,2024-08-04,Late,Regulatory Reporting - Capital,DNB,9,9,96.0,2,High
+RPT-0173,Credit Risk RWA Report - 2024-M10,Credit Risk RWA Report,2024-M10,2024-11-15,2024-11-13,On Time,Credit Risk Reporting,Internal Risk Committee,0,0,9.9,5,Low
+RPT-0174,Liquidity Coverage Ratio (LCR) - 2025-M08,Liquidity Coverage Ratio (LCR),2025-M08,2025-09-15,2025-09-20,Late,Regulatory Reporting - Liquidity,DNB,2,5,87.5,3,High
+RPT-0175,Basel III Leverage Ratio - 2024-Q1,Basel III Leverage Ratio,2024-Q1,2024-04-30,2024-05-03,Late,Regulatory Reporting - Capital,ECB,4,7,74.6,3,High
+RPT-0176,FINREP - Financial Reporting - 2024-Q2,FINREP - Financial Reporting,2024-Q2,2024-07-30,2024-08-05,Missed,Regulatory Reporting - Capital,ECB,5,7,50.8,2,High
+RPT-0177,Large Exposures Report - 2025-Q3,Large Exposures Report,2025-Q3,2025-10-30,2025-10-31,Late,Credit Risk Reporting,ECB,0,1,22.5,4,Medium
+RPT-0178,Liquidity Coverage Ratio (LCR) - 2024-M01,Liquidity Coverage Ratio (LCR),2024-M01,2024-02-15,2024-02-21,Missed,Regulatory Reporting - Liquidity,DNB,6,11,54.4,2,High
+RPT-0179,Credit Risk RWA Report - 2024-M05,Credit Risk RWA Report,2024-M05,2024-06-15,2024-06-22,Missed,Credit Risk Reporting,Internal Risk Committee,4,6,38.9,3,Medium
+RPT-0180,Credit Risk RWA Report - 2024-M06,Credit Risk RWA Report,2024-M06,2024-07-15,2024-07-10,On Time,Credit Risk Reporting,Internal Risk Committee,0,2,32.8,4,Medium
+RPT-0181,Credit Risk RWA Report - 2024-M02,Credit Risk RWA Report,2024-M02,2024-03-15,2024-03-14,On Time,Credit Risk Reporting,Internal Risk Committee,0,4,29.4,4,Medium
+RPT-0182,FINREP - Financial Reporting - 2024-Q3,FINREP - Financial Reporting,2024-Q3,2024-10-30,2024-10-29,On Time,Regulatory Reporting - Capital,ECB,5,7,49.0,4,High
+RPT-0183,DNB Statistical Report - 2024-M11,DNB Statistical Report,2024-M11,2024-12-15,2024-12-16,Late,Statistical Reporting,DNB,1,4,41.8,4,Medium
+RPT-0184,COREP - Own Funds - 2024-Q2,COREP - Own Funds,2024-Q2,2024-07-30,2024-08-02,Late,Regulatory Reporting - Capital,DNB,2,5,75.8,3,High
+RPT-0185,COREP - Own Funds - 2024-Q4,COREP - Own Funds,2024-Q4,2025-01-30,2025-01-25,On Time,Regulatory Reporting - Capital,DNB,3,6,23.4,4,Medium
+RPT-0186,Liquidity Coverage Ratio (LCR) - 2024-M09,Liquidity Coverage Ratio (LCR),2024-M09,2024-10-15,2024-10-09,On Time,Regulatory Reporting - Liquidity,DNB,2,2,40.0,4,Medium
+RPT-0187,Basel III Leverage Ratio - 2025-Q1,Basel III Leverage Ratio,2025-Q1,2025-04-30,2025-04-28,On Time,Regulatory Reporting - Capital,ECB,1,2,47.8,5,Medium
+RPT-0188,FINREP - Financial Reporting - 2024-Q1,FINREP - Financial Reporting,2024-Q1,2024-04-30,2024-05-01,Late,Regulatory Reporting - Capital,ECB,1,2,24.3,4,Medium
+RPT-0189,Net Stable Funding Ratio (NSFR) - 2024-Q4,Net Stable Funding Ratio (NSFR),2024-Q4,2025-01-30,2025-01-29,On Time,Regulatory Reporting - Liquidity,DNB,0,1,34.5,5,Medium
+RPT-0190,COREP - Own Funds - 2024-Q2,COREP - Own Funds,2024-Q2,2024-07-30,2024-07-25,On Time,Regulatory Reporting - Capital,DNB,0,0,13.3,4,Medium
+RPT-0191,AML/KYC Periodic Review - 2024-Q4,AML/KYC Periodic Review,2024-Q4,2025-01-30,2025-01-31,Late,AML & Compliance Reporting,Internal Compliance Committee,4,10,93.2,3,High
+RPT-0192,Credit Risk RWA Report - 2024-M10,Credit Risk RWA Report,2024-M10,2024-11-15,2024-11-14,On Time,Credit Risk Reporting,Internal Risk Committee,2,3,33.4,4,Medium
+RPT-0193,FINREP - Financial Reporting - 2025-Q3,FINREP - Financial Reporting,2025-Q3,2025-10-30,2025-11-03,Late,Regulatory Reporting - Capital,ECB,5,9,75.9,3,High
+RPT-0194,Net Stable Funding Ratio (NSFR) - 2024-Q3,Net Stable Funding Ratio (NSFR),2024-Q3,2024-10-30,2024-11-01,Late,Regulatory Reporting - Liquidity,DNB,3,8,56.5,3,High
+RPT-0195,DNB Statistical Report - 2024-M12,DNB Statistical Report,2024-M12,2025-01-15,2025-01-14,On Time,Statistical Reporting,DNB,0,0,21.0,5,Low
+RPT-0196,Credit Risk RWA Report - 2025-M06,Credit Risk RWA Report,2025-M06,2025-07-15,2025-07-12,On Time,Credit Risk Reporting,Internal Risk Committee,0,1,23.4,4,Medium
+RPT-0197,Credit Risk RWA Report - 2024-M05,Credit Risk RWA Report,2024-M05,2024-06-15,2024-06-11,On Time,Credit Risk Reporting,Internal Risk Committee,3,6,69.2,4,High
+RPT-0198,Liquidity Coverage Ratio (LCR) - 2024-M10,Liquidity Coverage Ratio (LCR),2024-M10,2024-11-15,2024-11-17,Late,Regulatory Reporting - Liquidity,DNB,2,7,43.6,4,High
+RPT-0199,AML/KYC Periodic Review - 2024-Q2,AML/KYC Periodic Review,2024-Q2,2024-07-30,2024-07-30,On Time,AML & Compliance Reporting,Internal Compliance Committee,1,1,36.1,4,Medium
+RPT-0200,DNB Statistical Report - 2025-M03,DNB Statistical Report,2025-M03,2025-04-15,2025-04-14,On Time,Statistical Reporting,DNB,2,4,32.1,4,Medium
+RPT-0201,DNB Statistical Report - 2025-M07,DNB Statistical Report,2025-M07,2025-08-15,2025-08-18,Late,Statistical Reporting,DNB,4,4,64.8,3,High
+RPT-0202,AML/KYC Periodic Review - 2025-Q3,AML/KYC Periodic Review,2025-Q3,2025-10-30,2025-11-01,Late,AML & Compliance Reporting,Internal Compliance Committee,3,8,100.4,3,High
+RPT-0203,COREP - Own Funds - 2024-Q3,COREP - Own Funds,2024-Q3,2024-10-30,2024-10-29,On Time,Regulatory Reporting - Capital,DNB,5,2,26.5,4,Medium
+RPT-0204,AML/KYC Periodic Review - 2024-Q3,AML/KYC Periodic Review,2024-Q3,2024-10-30,2024-10-26,On Time,AML & Compliance Reporting,Internal Compliance Committee,4,4,14.9,4,Medium
+RPT-0205,DNB Statistical Report - 2024-M08,DNB Statistical Report,2024-M08,2024-09-15,2024-09-15,On Time,Statistical Reporting,DNB,0,1,12.3,4,Low
+RPT-0206,Large Exposures Report - 2024-Q4,Large Exposures Report,2024-Q4,2025-01-30,2025-02-01,Late,Credit Risk Reporting,ECB,0,1,25.6,4,Medium
+RPT-0207,Credit Risk RWA Report - 2025-M06,Credit Risk RWA Report,2025-M06,2025-07-15,2025-07-18,Late,Credit Risk Reporting,Internal Risk Committee,4,5,95.1,3,High
+RPT-0208,Net Stable Funding Ratio (NSFR) - 2024-Q2,Net Stable Funding Ratio (NSFR),2024-Q2,2024-07-30,2024-08-02,Late,Regulatory Reporting - Liquidity,DNB,1,2,25.6,4,Medium
+RPT-0209,Basel III Leverage Ratio - 2024-Q4,Basel III Leverage Ratio,2024-Q4,2025-01-30,2025-01-27,On Time,Regulatory Reporting - Capital,ECB,1,5,101.9,4,High
+RPT-0210,AnaCredit Report - 2024-M01,AnaCredit Report,2024-M01,2024-02-15,2024-02-12,On Time,Credit Risk Reporting,DNB,0,4,32.9,4,Medium
+RPT-0211,FINREP - Financial Reporting - 2025-Q3,FINREP - Financial Reporting,2025-Q3,2025-10-30,2025-11-04,Late,Regulatory Reporting - Capital,ECB,1,4,28.4,4,Medium
+RPT-0212,DNB Statistical Report - 2025-M04,DNB Statistical Report,2025-M04,2025-05-15,2025-05-20,Late,Statistical Reporting,DNB,10,11,89.3,2,High
+RPT-0213,FINREP - Financial Reporting - 2025-Q2,FINREP - Financial Reporting,2025-Q2,2025-07-30,2025-07-30,On Time,Regulatory Reporting - Capital,ECB,2,6,75.7,4,High
+RPT-0214,COREP - Own Funds - 2024-Q1,COREP - Own Funds,2024-Q1,2024-04-30,2024-05-02,Late,Regulatory Reporting - Capital,DNB,0,5,74.5,4,High
+RPT-0215,DNB Statistical Report - 2024-M04,DNB Statistical Report,2024-M04,2024-05-15,2024-05-16,Late,Statistical Reporting,DNB,0,0,42.7,4,Medium
+RPT-0216,COREP - Own Funds - 2024-Q4,COREP - Own Funds,2024-Q4,2025-01-30,2025-02-01,Late,Regulatory Reporting - Capital,DNB,0,0,17.5,3,Low
+RPT-0217,AnaCredit Report - 2024-M07,AnaCredit Report,2024-M07,2024-08-15,2024-08-22,Missed,Credit Risk Reporting,DNB,5,5,91.1,3,High
+RPT-0218,Net Stable Funding Ratio (NSFR) - 2024-Q3,Net Stable Funding Ratio (NSFR),2024-Q3,2024-10-30,2024-11-06,Missed,Regulatory Reporting - Liquidity,DNB,4,6,31.6,3,Medium
+RPT-0219,AML/KYC Periodic Review - 2025-Q1,AML/KYC Periodic Review,2025-Q1,2025-04-30,2025-04-27,On Time,AML & Compliance Reporting,Internal Compliance Committee,4,2,27.7,4,Medium
+RPT-0220,Net Stable Funding Ratio (NSFR) - 2024-Q4,Net Stable Funding Ratio (NSFR),2024-Q4,2025-01-30,2025-02-04,Late,Regulatory Reporting - Liquidity,DNB,2,5,28.4,4,Medium
+RPT-0221,Large Exposures Report - 2025-Q1,Large Exposures Report,2025-Q1,2025-04-30,2025-04-27,On Time,Credit Risk Reporting,ECB,4,3,101.8,4,High
+RPT-0222,FINREP - Financial Reporting - 2024-Q4,FINREP - Financial Reporting,2024-Q4,2025-01-30,2025-01-27,On Time,Regulatory Reporting - Capital,ECB,1,2,98.2,5,High
+RPT-0223,FINREP - Financial Reporting - 2024-Q3,FINREP - Financial Reporting,2024-Q3,2024-10-30,2024-10-23,On Time,Regulatory Reporting - Capital,ECB,1,1,10.4,4,Low
+RPT-0224,AnaCredit Report - 2025-M04,AnaCredit Report,2025-M04,2025-05-15,2025-05-25,Missed,Credit Risk Reporting,DNB,5,10,107.0,2,High
+RPT-0225,DNB Statistical Report - 2024-M09,DNB Statistical Report,2024-M09,2024-10-15,2024-10-14,On Time,Statistical Reporting,DNB,0,1,16.5,4,Low
+RPT-0226,Credit Risk RWA Report - 2025-M06,Credit Risk RWA Report,2025-M06,2025-07-15,2025-07-11,On Time,Credit Risk Reporting,Internal Risk Committee,2,3,24.7,4,Low
+RPT-0227,AnaCredit Report - 2024-M06,AnaCredit Report,2024-M06,2024-07-15,2024-07-18,Late,Credit Risk Reporting,DNB,6,6,48.4,3,High
+RPT-0228,DNB Statistical Report - 2024-M08,DNB Statistical Report,2024-M08,2024-09-15,2024-09-15,On Time,Statistical Reporting,DNB,3,6,92.9,4,High
+RPT-0229,Credit Risk RWA Report - 2025-M08,Credit Risk RWA Report,2025-M08,2025-09-15,2025-09-13,On Time,Credit Risk Reporting,Internal Risk Committee,2,2,30.7,4,Medium
+RPT-0230,FINREP - Financial Reporting - 2025-Q2,FINREP - Financial Reporting,2025-Q2,2025-07-30,2025-07-28,On Time,Regulatory Reporting - Capital,ECB,0,1,70.7,5,High
+RPT-0231,Credit Risk RWA Report - 2024-M10,Credit Risk RWA Report,2024-M10,2024-11-15,2024-11-12,On Time,Credit Risk Reporting,Internal Risk Committee,8,11,44.0,3,High
+RPT-0232,FINREP - Financial Reporting - 2025-Q1,FINREP - Financial Reporting,2025-Q1,2025-04-30,2025-05-08,Missed,Regulatory Reporting - Capital,ECB,6,9,97.1,3,High
+RPT-0233,Net Stable Funding Ratio (NSFR) - 2025-Q2,Net Stable Funding Ratio (NSFR),2025-Q2,2025-07-30,2025-07-28,On Time,Regulatory Reporting - Liquidity,DNB,1,4,36.7,4,Medium
+RPT-0234,Liquidity Coverage Ratio (LCR) - 2025-M01,Liquidity Coverage Ratio (LCR),2025-M01,2025-02-15,2025-02-14,On Time,Regulatory Reporting - Liquidity,DNB,0,1,36.4,4,Medium
+RPT-0235,FINREP - Financial Reporting - 2024-Q2,FINREP - Financial Reporting,2024-Q2,2024-07-30,2024-08-01,Late,Regulatory Reporting - Capital,ECB,4,3,44.2,3,Medium
+RPT-0236,Net Stable Funding Ratio (NSFR) - 2025-Q2,Net Stable Funding Ratio (NSFR),2025-Q2,2025-07-30,2025-07-28,On Time,Regulatory Reporting - Liquidity,DNB,3,2,56.8,4,High
+RPT-0237,COREP - Own Funds - 2024-Q1,COREP - Own Funds,2024-Q1,2024-04-30,2024-05-04,Late,Regulatory Reporting - Capital,DNB,2,8,102.2,3,High
+RPT-0238,Basel III Leverage Ratio - 2025-Q3,Basel III Leverage Ratio,2025-Q3,2025-10-30,2025-10-31,Late,Regulatory Reporting - Capital,ECB,2,5,63.1,3,High
+RPT-0239,AnaCredit Report - 2024-M06,AnaCredit Report,2024-M06,2024-07-15,2024-07-17,Late,Credit Risk Reporting,DNB,4,3,67.0,3,High
+RPT-0240,Large Exposures Report - 2024-Q1,Large Exposures Report,2024-Q1,2024-04-30,2024-04-27,On Time,Credit Risk Reporting,ECB,0,3,17.0,4,Low
+RPT-0241,DNB Statistical Report - 2025-M02,DNB Statistical Report,2025-M02,2025-03-15,2025-03-15,On Time,Statistical Reporting,DNB,0,0,11.9,5,Low
+RPT-0242,Basel III Leverage Ratio - 2024-Q4,Basel III Leverage Ratio,2024-Q4,2025-01-30,2025-01-27,On Time,Regulatory Reporting - Capital,ECB,1,5,34.8,4,Medium
+RPT-0243,Basel III Leverage Ratio - 2025-Q2,Basel III Leverage Ratio,2025-Q2,2025-07-30,2025-07-26,On Time,Regulatory Reporting - Capital,ECB,1,1,14.3,4,Low
+RPT-0244,Net Stable Funding Ratio (NSFR) - 2024-Q3,Net Stable Funding Ratio (NSFR),2024-Q3,2024-10-30,2024-10-31,Late,Regulatory Reporting - Liquidity,DNB,0,7,43.3,4,Medium
+RPT-0245,COREP - Own Funds - 2025-Q1,COREP - Own Funds,2025-Q1,2025-04-30,2025-04-25,On Time,Regulatory Reporting - Capital,DNB,1,0,12.3,5,Low
+RPT-0246,Basel III Leverage Ratio - 2024-Q4,Basel III Leverage Ratio,2024-Q4,2025-01-30,2025-01-29,On Time,Regulatory Reporting - Capital,ECB,3,1,15.8,4,Low
+RPT-0247,Net Stable Funding Ratio (NSFR) - 2025-Q3,Net Stable Funding Ratio (NSFR),2025-Q3,2025-10-30,2025-10-29,On Time,Regulatory Reporting - Liquidity,DNB,3,2,2.3,4,Low
+RPT-0248,FINREP - Financial Reporting - 2024-Q1,FINREP - Financial Reporting,2024-Q1,2024-04-30,2024-04-27,On Time,Regulatory Reporting - Capital,ECB,1,1,24.4,4,Medium
+RPT-0249,AML/KYC Periodic Review - 2025-Q2,AML/KYC Periodic Review,2025-Q2,2025-07-30,2025-07-29,On Time,AML & Compliance Reporting,Internal Compliance Committee,3,2,92.3,4,High
+RPT-0250,DNB Statistical Report - 2024-M04,DNB Statistical Report,2024-M04,2024-05-15,2024-05-15,On Time,Statistical Reporting,DNB,0,1,32.3,5,Medium
+RPT-0251,DNB Statistical Report - 2025-M05,DNB Statistical Report,2025-M05,2025-06-15,2025-06-13,On Time,Statistical Reporting,DNB,0,0,25.9,5,Medium
+RPT-0252,Credit Risk RWA Report - 2024-M03,Credit Risk RWA Report,2024-M03,2024-04-15,2024-04-14,On Time,Credit Risk Reporting,Internal Risk Committee,1,2,28.6,4,Medium
+RPT-0253,COREP - Own Funds - 2025-Q1,COREP - Own Funds,2025-Q1,2025-04-30,2025-04-30,On Time,Regulatory Reporting - Capital,DNB,1,3,29.8,4,Medium
+RPT-0254,Liquidity Coverage Ratio (LCR) - 2025-M04,Liquidity Coverage Ratio (LCR),2025-M04,2025-05-15,2025-05-15,On Time,Regulatory Reporting - Liquidity,DNB,4,5,35.7,4,Medium
+RPT-0255,Basel III Leverage Ratio - 2024-Q2,Basel III Leverage Ratio,2024-Q2,2024-07-30,2024-07-30,On Time,Regulatory Reporting - Capital,ECB,0,0,19.1,5,Medium
+RPT-0256,AML/KYC Periodic Review - 2025-Q1,AML/KYC Periodic Review,2025-Q1,2025-04-30,2025-05-02,Late,AML & Compliance Reporting,Internal Compliance Committee,3,7,100.0,2,High
+RPT-0257,Credit Risk RWA Report - 2024-M02,Credit Risk RWA Report,2024-M02,2024-03-15,2024-03-14,On Time,Credit Risk Reporting,Internal Risk Committee,0,1,30.8,4,Medium
+RPT-0258,Liquidity Coverage Ratio (LCR) - 2024-M11,Liquidity Coverage Ratio (LCR),2024-M11,2024-12-15,2024-12-14,On Time,Regulatory Reporting - Liquidity,DNB,2,4,108.0,4,High
+RPT-0259,Liquidity Coverage Ratio (LCR) - 2024-M10,Liquidity Coverage Ratio (LCR),2024-M10,2024-11-15,2024-11-15,On Time,Regulatory Reporting - Liquidity,DNB,1,3,28.9,4,Medium
+RPT-0260,Basel III Leverage Ratio - 2024-Q1,Basel III Leverage Ratio,2024-Q1,2024-04-30,2024-04-23,On Time,Regulatory Reporting - Capital,ECB,0,1,24.2,5,Medium
+RPT-0261,Liquidity Coverage Ratio (LCR) - 2025-M02,Liquidity Coverage Ratio (LCR),2025-M02,2025-03-15,2025-03-14,On Time,Regulatory Reporting - Liquidity,DNB,2,7,36.7,4,High
+RPT-0262,COREP - Own Funds - 2024-Q4,COREP - Own Funds,2024-Q4,2025-01-30,2025-01-29,On Time,Regulatory Reporting - Capital,DNB,4,6,63.5,4,High
+RPT-0263,COREP - Own Funds - 2025-Q3,COREP - Own Funds,2025-Q3,2025-10-30,2025-11-04,Late,Regulatory Reporting - Capital,DNB,4,9,63.6,3,High
+RPT-0264,FINREP - Financial Reporting - 2025-Q1,FINREP - Financial Reporting,2025-Q1,2025-04-30,2025-04-28,On Time,Regulatory Reporting - Capital,ECB,1,1,26.4,4,Medium
+RPT-0265,Large Exposures Report - 2024-Q1,Large Exposures Report,2024-Q1,2024-04-30,2024-05-04,Late,Credit Risk Reporting,ECB,1,3,97.6,3,High
+RPT-0266,COREP - Own Funds - 2024-Q2,COREP - Own Funds,2024-Q2,2024-07-30,2024-07-27,On Time,Regulatory Reporting - Capital,DNB,2,4,58.8,4,High
+RPT-0267,Large Exposures Report - 2024-Q2,Large Exposures Report,2024-Q2,2024-07-30,2024-07-30,On Time,Credit Risk Reporting,ECB,4,7,21.7,4,Medium
+RPT-0268,AnaCredit Report - 2024-M05,AnaCredit Report,2024-M05,2024-06-15,2024-06-14,On Time,Credit Risk Reporting,DNB,3,9,66.4,3,High
+RPT-0269,DNB Statistical Report - 2024-M08,DNB Statistical Report,2024-M08,2024-09-15,2024-09-12,On Time,Statistical Reporting,DNB,0,2,12.8,4,Low
+RPT-0270,Liquidity Coverage Ratio (LCR) - 2025-M08,Liquidity Coverage Ratio (LCR),2025-M08,2025-09-15,2025-09-17,Late,Regulatory Reporting - Liquidity,DNB,1,2,13.0,4,Medium
+RPT-0271,Net Stable Funding Ratio (NSFR) - 2024-Q2,Net Stable Funding Ratio (NSFR),2024-Q2,2024-07-30,2024-07-31,Late,Regulatory Reporting - Liquidity,DNB,5,4,68.9,3,High
+RPT-0272,DNB Statistical Report - 2024-M06,DNB Statistical Report,2024-M06,2024-07-15,2024-07-13,On Time,Statistical Reporting,DNB,1,3,30.2,5,Medium
+RPT-0273,Credit Risk RWA Report - 2025-M01,Credit Risk RWA Report,2025-M01,2025-02-15,2025-02-20,Late,Credit Risk Reporting,Internal Risk Committee,3,6,85.8,3,High
+RPT-0274,COREP - Own Funds - 2024-Q2,COREP - Own Funds,2024-Q2,2024-07-30,2024-07-31,Late,Regulatory Reporting - Capital,DNB,5,9,47.5,3,High
+RPT-0275,AML/KYC Periodic Review - 2025-Q2,AML/KYC Periodic Review,2025-Q2,2025-07-30,2025-07-30,On Time,AML & Compliance Reporting,Internal Compliance Committee,2,3,46.6,4,Medium
+RPT-0276,Large Exposures Report - 2024-Q1,Large Exposures Report,2024-Q1,2024-04-30,2024-04-28,On Time,Credit Risk Reporting,ECB,0,4,20.3,5,Medium
+RPT-0277,Net Stable Funding Ratio (NSFR) - 2025-Q3,Net Stable Funding Ratio (NSFR),2025-Q3,2025-10-30,2025-10-24,On Time,Regulatory Reporting - Liquidity,DNB,2,4,70.8,4,High
+RPT-0278,FINREP - Financial Reporting - 2024-Q4,FINREP - Financial Reporting,2024-Q4,2025-01-30,2025-01-29,On Time,Regulatory Reporting - Capital,ECB,1,1,40.7,5,Medium
+RPT-0279,Net Stable Funding Ratio (NSFR) - 2024-Q3,Net Stable Funding Ratio (NSFR),2024-Q3,2024-10-30,2024-11-03,Late,Regulatory Reporting - Liquidity,DNB,2,1,35.8,4,Medium
+RPT-0280,AnaCredit Report - 2025-M02,AnaCredit Report,2025-M02,2025-03-15,2025-03-19,Late,Credit Risk Reporting,DNB,4,8,77.0,2,High
+RPT-0281,AnaCredit Report - 2024-M05,AnaCredit Report,2024-M05,2024-06-15,2024-06-12,On Time,Credit Risk Reporting,DNB,1,1,18.5,4,Low
+RPT-0282,Net Stable Funding Ratio (NSFR) - 2024-Q2,Net Stable Funding Ratio (NSFR),2024-Q2,2024-07-30,2024-07-31,Late,Regulatory Reporting - Liquidity,DNB,1,4,63.9,4,High
+RPT-0283,AnaCredit Report - 2025-M05,AnaCredit Report,2025-M05,2025-06-15,2025-06-09,On Time,Credit Risk Reporting,DNB,1,3,39.7,4,High
+RPT-0284,Basel III Leverage Ratio - 2025-Q1,Basel III Leverage Ratio,2025-Q1,2025-04-30,2025-04-29,On Time,Regulatory Reporting - Capital,ECB,1,5,94.6,4,High
+RPT-0285,Net Stable Funding Ratio (NSFR) - 2025-Q1,Net Stable Funding Ratio (NSFR),2025-Q1,2025-04-30,2025-04-29,On Time,Regulatory Reporting - Liquidity,DNB,3,2,99.1,4,High
+RPT-0286,Credit Risk RWA Report - 2024-M07,Credit Risk RWA Report,2024-M07,2024-08-15,2024-08-09,On Time,Credit Risk Reporting,Internal Risk Committee,2,2,8.6,4,Low
+RPT-0287,Net Stable Funding Ratio (NSFR) - 2024-Q3,Net Stable Funding Ratio (NSFR),2024-Q3,2024-10-30,2024-10-29,On Time,Regulatory Reporting - Liquidity,DNB,3,3,91.3,4,High
+RPT-0288,FINREP - Financial Reporting - 2025-Q1,FINREP - Financial Reporting,2025-Q1,2025-04-30,2025-04-26,On Time,Regulatory Reporting - Capital,ECB,1,4,20.8,4,Medium
+RPT-0289,AML/KYC Periodic Review - 2024-Q3,AML/KYC Periodic Review,2024-Q3,2024-10-30,2024-10-28,On Time,AML & Compliance Reporting,Internal Compliance Committee,0,2,45.8,4,Medium
+RPT-0290,AML/KYC Periodic Review - 2024-Q1,AML/KYC Periodic Review,2024-Q1,2024-04-30,2024-04-29,On Time,AML & Compliance Reporting,Internal Compliance Committee,4,4,100.6,4,High
+RPT-0291,FINREP - Financial Reporting - 2024-Q4,FINREP - Financial Reporting,2024-Q4,2025-01-30,2025-01-31,Late,Regulatory Reporting - Capital,ECB,3,8,78.0,3,High
+RPT-0292,COREP - Own Funds - 2024-Q3,COREP - Own Funds,2024-Q3,2024-10-30,2024-10-24,On Time,Regulatory Reporting - Capital,DNB,2,5,30.1,4,Medium
+RPT-0293,COREP - Own Funds - 2025-Q2,COREP - Own Funds,2025-Q2,2025-07-30,2025-07-27,On Time,Regulatory Reporting - Capital,DNB,0,3,59.7,4,High
+RPT-0294,FINREP - Financial Reporting - 2024-Q3,FINREP - Financial Reporting,2024-Q3,2024-10-30,2024-10-30,On Time,Regulatory Reporting - Capital,ECB,4,6,63.3,3,High
+RPT-0295,Liquidity Coverage Ratio (LCR) - 2025-M01,Liquidity Coverage Ratio (LCR),2025-M01,2025-02-15,2025-02-14,On Time,Regulatory Reporting - Liquidity,DNB,1,1,26.6,4,Medium
+RPT-0296,Basel III Leverage Ratio - 2025-Q3,Basel III Leverage Ratio,2025-Q3,2025-10-30,2025-11-01,Late,Regulatory Reporting - Capital,ECB,1,2,35.1,4,Medium
+RPT-0297,AML/KYC Periodic Review - 2025-Q3,AML/KYC Periodic Review,2025-Q3,2025-10-30,2025-10-27,On Time,AML & Compliance Reporting,Internal Compliance Committee,0,0,45.8,5,Medium
+RPT-0298,Liquidity Coverage Ratio (LCR) - 2024-M10,Liquidity Coverage Ratio (LCR),2024-M10,2024-11-15,2024-11-19,Late,Regulatory Reporting - Liquidity,DNB,7,7,79.3,2,High
+RPT-0299,AML/KYC Periodic Review - 2025-Q3,AML/KYC Periodic Review,2025-Q3,2025-10-30,2025-10-27,On Time,AML & Compliance Reporting,Internal Compliance Committee,1,2,33.6,5,Medium
+RPT-0300,Basel III Leverage Ratio - 2024-Q1,Basel III Leverage Ratio,2024-Q1,2024-04-30,2024-04-26,On Time,Regulatory Reporting - Capital,ECB,0,5,38.5,4,Medium
+RPT-0301,Liquidity Coverage Ratio (LCR) - 2025-M04,Liquidity Coverage Ratio (LCR),2025-M04,2025-05-15,2025-05-17,Late,Regulatory Reporting - Liquidity,DNB,4,9,105.0,3,High
+RPT-0302,DNB Statistical Report - 2024-M08,DNB Statistical Report,2024-M08,2024-09-15,2024-09-18,Late,Statistical Reporting,DNB,3,8,65.2,3,High
+RPT-0303,DNB Statistical Report - 2024-M01,DNB Statistical Report,2024-M01,2024-02-15,2024-02-14,On Time,Statistical Reporting,DNB,0,3,25.1,5,Low
+RPT-0304,DNB Statistical Report - 2025-M05,DNB Statistical Report,2025-M05,2025-06-15,2025-06-12,On Time,Statistical Reporting,DNB,0,1,13.1,4,Low
+RPT-0305,Basel III Leverage Ratio - 2025-Q3,Basel III Leverage Ratio,2025-Q3,2025-10-30,2025-10-29,On Time,Regulatory Reporting - Capital,ECB,0,2,24.2,5,Medium
+RPT-0306,Net Stable Funding Ratio (NSFR) - 2024-Q4,Net Stable Funding Ratio (NSFR),2024-Q4,2025-01-30,2025-01-26,On Time,Regulatory Reporting - Liquidity,DNB,0,2,22.8,4,Medium
+RPT-0307,Net Stable Funding Ratio (NSFR) - 2024-Q2,Net Stable Funding Ratio (NSFR),2024-Q2,2024-07-30,2024-08-03,Late,Regulatory Reporting - Liquidity,DNB,2,2,8.4,3,Low
+RPT-0308,AML/KYC Periodic Review - 2025-Q1,AML/KYC Periodic Review,2025-Q1,2025-04-30,2025-05-01,Late,AML & Compliance Reporting,Internal Compliance Committee,2,3,37.0,4,Medium
+RPT-0309,Liquidity Coverage Ratio (LCR) - 2024-M02,Liquidity Coverage Ratio (LCR),2024-M02,2024-03-15,2024-03-12,On Time,Regulatory Reporting - Liquidity,DNB,1,2,9.8,5,Low
+RPT-0310,DNB Statistical Report - 2024-M09,DNB Statistical Report,2024-M09,2024-10-15,2024-10-11,On Time,Statistical Reporting,DNB,1,1,36.9,4,Medium
+RPT-0311,Large Exposures Report - 2024-Q1,Large Exposures Report,2024-Q1,2024-04-30,2024-04-29,On Time,Credit Risk Reporting,ECB,1,1,40.8,4,Medium
+RPT-0312,Credit Risk RWA Report - 2024-M08,Credit Risk RWA Report,2024-M08,2024-09-15,2024-09-11,On Time,Credit Risk Reporting,Internal Risk Committee,3,4,40.3,4,Medium
+RPT-0313,Net Stable Funding Ratio (NSFR) - 2024-Q1,Net Stable Funding Ratio (NSFR),2024-Q1,2024-04-30,2024-04-28,On Time,Regulatory Reporting - Liquidity,DNB,1,3,32.9,4,Medium
+RPT-0314,Liquidity Coverage Ratio (LCR) - 2025-M03,Liquidity Coverage Ratio (LCR),2025-M03,2025-04-15,2025-04-14,On Time,Regulatory Reporting - Liquidity,DNB,2,4,48.7,4,High
+RPT-0315,Basel III Leverage Ratio - 2024-Q2,Basel III Leverage Ratio,2024-Q2,2024-07-30,2024-07-26,On Time,Regulatory Reporting - Capital,ECB,1,2,36.2,4,Medium
+RPT-0316,Liquidity Coverage Ratio (LCR) - 2024-M05,Liquidity Coverage Ratio (LCR),2024-M05,2024-06-15,2024-06-19,Late,Regulatory Reporting - Liquidity,DNB,2,5,89.6,4,High
+RPT-0317,Basel III Leverage Ratio - 2024-Q3,Basel III Leverage Ratio,2024-Q3,2024-10-30,2024-11-01,Late,Regulatory Reporting - Capital,ECB,5,6,52.6,3,High
+RPT-0318,DNB Statistical Report - 2024-M07,DNB Statistical Report,2024-M07,2024-08-15,2024-08-20,Late,Statistical Reporting,DNB,4,3,35.8,3,Medium
+RPT-0319,DNB Statistical Report - 2025-M02,DNB Statistical Report,2025-M02,2025-03-15,2025-03-06,On Time,Statistical Reporting,DNB,0,2,32.1,5,Medium
+RPT-0320,AML/KYC Periodic Review - 2024-Q3,AML/KYC Periodic Review,2024-Q3,2024-10-30,2024-10-29,On Time,AML & Compliance Reporting,Internal Compliance Committee,0,1,11.0,4,Low
+RPT-0321,Net Stable Funding Ratio (NSFR) - 2024-Q4,Net Stable Funding Ratio (NSFR),2024-Q4,2025-01-30,2025-02-02,Late,Regulatory Reporting - Liquidity,DNB,0,2,12.4,4,Low
+RPT-0322,AML/KYC Periodic Review - 2025-Q3,AML/KYC Periodic Review,2025-Q3,2025-10-30,2025-10-23,On Time,AML & Compliance Reporting,Internal Compliance Committee,0,2,7.1,4,Low
+RPT-0323,Basel III Leverage Ratio - 2024-Q2,Basel III Leverage Ratio,2024-Q2,2024-07-30,2024-08-03,Late,Regulatory Reporting - Capital,ECB,7,10,73.7,3,High
+RPT-0324,Large Exposures Report - 2025-Q1,Large Exposures Report,2025-Q1,2025-04-30,2025-04-27,On Time,Credit Risk Reporting,ECB,2,3,30.9,4,Medium
+RPT-0325,AnaCredit Report - 2024-M11,AnaCredit Report,2024-M11,2024-12-15,2024-12-18,Late,Credit Risk Reporting,DNB,2,5,106.4,4,High
+RPT-0326,Basel III Leverage Ratio - 2025-Q2,Basel III Leverage Ratio,2025-Q2,2025-07-30,2025-07-31,Late,Regulatory Reporting - Capital,ECB,4,7,90.0,3,High
+RPT-0327,Basel III Leverage Ratio - 2024-Q3,Basel III Leverage Ratio,2024-Q3,2024-10-30,2024-10-31,Late,Regulatory Reporting - Capital,ECB,0,3,6.9,4,Low
+RPT-0328,AML/KYC Periodic Review - 2024-Q1,AML/KYC Periodic Review,2024-Q1,2024-04-30,2024-04-27,On Time,AML & Compliance Reporting,Internal Compliance Committee,0,6,33.8,4,Medium
+RPT-0329,Liquidity Coverage Ratio (LCR) - 2025-M07,Liquidity Coverage Ratio (LCR),2025-M07,2025-08-15,2025-08-11,On Time,Regulatory Reporting - Liquidity,DNB,0,3,21.7,4,Medium
+RPT-0330,Liquidity Coverage Ratio (LCR) - 2024-M11,Liquidity Coverage Ratio (LCR),2024-M11,2024-12-15,2024-12-12,On Time,Regulatory Reporting - Liquidity,DNB,0,3,36.6,5,Medium
+RPT-0331,COREP - Own Funds - 2024-Q4,COREP - Own Funds,2024-Q4,2025-01-30,2025-02-03,Late,Regulatory Reporting - Capital,DNB,5,4,103.7,3,High
+RPT-0332,COREP - Own Funds - 2024-Q3,COREP - Own Funds,2024-Q3,2024-10-30,2024-10-27,On Time,Regulatory Reporting - Capital,DNB,1,2,15.7,5,Low
+RPT-0333,FINREP - Financial Reporting - 2025-Q2,FINREP - Financial Reporting,2025-Q2,2025-07-30,2025-08-03,Late,Regulatory Reporting - Capital,ECB,5,8,69.5,3,High
+RPT-0334,Liquidity Coverage Ratio (LCR) - 2025-M08,Liquidity Coverage Ratio (LCR),2025-M08,2025-09-15,2025-09-14,On Time,Regulatory Reporting - Liquidity,DNB,2,7,102.5,4,High
+RPT-0335,FINREP - Financial Reporting - 2025-Q1,FINREP - Financial Reporting,2025-Q1,2025-04-30,2025-04-27,On Time,Regulatory Reporting - Capital,ECB,4,2,15.5,4,Medium
+RPT-0336,COREP - Own Funds - 2025-Q2,COREP - Own Funds,2025-Q2,2025-07-30,2025-07-31,Late,Regulatory Reporting - Capital,DNB,3,7,75.2,4,High
+RPT-0337,Liquidity Coverage Ratio (LCR) - 2024-M05,Liquidity Coverage Ratio (LCR),2024-M05,2024-06-15,2024-06-11,On Time,Regulatory Reporting - Liquidity,DNB,2,8,72.8,3,High
+RPT-0338,DNB Statistical Report - 2024-M03,DNB Statistical Report,2024-M03,2024-04-15,2024-04-17,Late,Statistical Reporting,DNB,1,3,17.9,3,Low
+RPT-0339,AML/KYC Periodic Review - 2024-Q3,AML/KYC Periodic Review,2024-Q3,2024-10-30,2024-10-28,On Time,AML & Compliance Reporting,Internal Compliance Committee,0,1,15.5,5,Low
+RPT-0340,Large Exposures Report - 2025-Q1,Large Exposures Report,2025-Q1,2025-04-30,2025-05-06,Missed,Credit Risk Reporting,ECB,3,6,91.2,2,High
+RPT-0341,FINREP - Financial Reporting - 2024-Q3,FINREP - Financial Reporting,2024-Q3,2024-10-30,2024-10-31,Late,Regulatory Reporting - Capital,ECB,0,1,20.6,4,Low
+RPT-0342,DNB Statistical Report - 2025-M03,DNB Statistical Report,2025-M03,2025-04-15,2025-04-15,On Time,Statistical Reporting,DNB,2,1,17.8,4,Low
+RPT-0343,Large Exposures Report - 2025-Q2,Large Exposures Report,2025-Q2,2025-07-30,2025-07-29,On Time,Credit Risk Reporting,ECB,1,2,42.0,4,Medium
+RPT-0344,Basel III Leverage Ratio - 2025-Q1,Basel III Leverage Ratio,2025-Q1,2025-04-30,2025-04-29,On Time,Regulatory Reporting - Capital,ECB,0,1,17.5,5,Low
+RPT-0345,DNB Statistical Report - 2025-M02,DNB Statistical Report,2025-M02,2025-03-15,2025-03-17,Late,Statistical Reporting,DNB,0,0,10.4,4,Low
+RPT-0346,Net Stable Funding Ratio (NSFR) - 2024-Q2,Net Stable Funding Ratio (NSFR),2024-Q2,2024-07-30,2024-08-01,Late,Regulatory Reporting - Liquidity,DNB,0,1,26.2,4,Medium
+RPT-0347,AnaCredit Report - 2024-M01,AnaCredit Report,2024-M01,2024-02-15,2024-02-13,On Time,Credit Risk Reporting,DNB,4,4,62.9,4,High
+RPT-0348,Basel III Leverage Ratio - 2024-Q2,Basel III Leverage Ratio,2024-Q2,2024-07-30,2024-07-23,On Time,Regulatory Reporting - Capital,ECB,2,2,42.5,4,Medium
+RPT-0349,Credit Risk RWA Report - 2025-M07,Credit Risk RWA Report,2025-M07,2025-08-15,2025-08-12,On Time,Credit Risk Reporting,Internal Risk Committee,1,1,45.4,4,Medium
+RPT-0350,COREP - Own Funds - 2025-Q1,COREP - Own Funds,2025-Q1,2025-04-30,2025-05-05,Late,Regulatory Reporting - Capital,DNB,8,11,86.8,2,High
+RPT-0351,COREP - Own Funds - 2025-Q1,COREP - Own Funds,2025-Q1,2025-04-30,2025-05-07,Missed,Regulatory Reporting - Capital,DNB,4,7,103.1,2,High
+RPT-0352,COREP - Own Funds - 2025-Q2,COREP - Own Funds,2025-Q2,2025-07-30,2025-07-31,Late,Regulatory Reporting - Capital,DNB,2,2,32.0,4,Medium
+RPT-0353,DNB Statistical Report - 2024-M04,DNB Statistical Report,2024-M04,2024-05-15,2024-05-12,On Time,Statistical Reporting,DNB,2,0,16.6,4,Low
+RPT-0354,Credit Risk RWA Report - 2024-M12,Credit Risk RWA Report,2024-M12,2025-01-15,2025-01-14,On Time,Credit Risk Reporting,Internal Risk Committee,0,1,21.5,4,Medium
+RPT-0355,COREP - Own Funds - 2024-Q2,COREP - Own Funds,2024-Q2,2024-07-30,2024-07-22,On Time,Regulatory Reporting - Capital,DNB,0,5,17.9,4,Medium
+RPT-0356,AnaCredit Report - 2025-M07,AnaCredit Report,2025-M07,2025-08-15,2025-08-12,On Time,Credit Risk Reporting,DNB,1,0,41.5,4,Medium
+RPT-0357,Credit Risk RWA Report - 2024-M03,Credit Risk RWA Report,2024-M03,2024-04-15,2024-04-10,On Time,Credit Risk Reporting,Internal Risk Committee,1,1,10.0,5,Low
+RPT-0358,COREP - Own Funds - 2025-Q1,COREP - Own Funds,2025-Q1,2025-04-30,2025-05-04,Late,Regulatory Reporting - Capital,DNB,1,4,32.3,4,Medium
+RPT-0359,Basel III Leverage Ratio - 2025-Q2,Basel III Leverage Ratio,2025-Q2,2025-07-30,2025-07-26,On Time,Regulatory Reporting - Capital,ECB,0,3,12.2,4,Low
+RPT-0360,FINREP - Financial Reporting - 2024-Q3,FINREP - Financial Reporting,2024-Q3,2024-10-30,2024-10-30,On Time,Regulatory Reporting - Capital,ECB,3,5,34.4,3,Medium
+RPT-0361,Liquidity Coverage Ratio (LCR) - 2024-M11,Liquidity Coverage Ratio (LCR),2024-M11,2024-12-15,2024-12-16,Late,Regulatory Reporting - Liquidity,DNB,1,3,63.4,4,High
+RPT-0362,Large Exposures Report - 2024-Q4,Large Exposures Report,2024-Q4,2025-01-30,2025-02-01,Late,Credit Risk Reporting,ECB,3,2,17.9,4,Low
+RPT-0363,AnaCredit Report - 2025-M08,AnaCredit Report,2025-M08,2025-09-15,2025-09-12,On Time,Credit Risk Reporting,DNB,0,2,42.6,4,Medium
+RPT-0364,Credit Risk RWA Report - 2024-M01,Credit Risk RWA Report,2024-M01,2024-02-15,2024-02-12,On Time,Credit Risk Reporting,Internal Risk Committee,1,1,7.4,5,Low
+RPT-0365,FINREP - Financial Reporting - 2024-Q4,FINREP - Financial Reporting,2024-Q4,2025-01-30,2025-01-30,On Time,Regulatory Reporting - Capital,ECB,4,8,47.5,4,High
+RPT-0366,Basel III Leverage Ratio - 2025-Q3,Basel III Leverage Ratio,2025-Q3,2025-10-30,2025-10-31,Late,Regulatory Reporting - Capital,ECB,1,3,22.4,4,Medium
+RPT-0367,AnaCredit Report - 2025-M07,AnaCredit Report,2025-M07,2025-08-15,2025-08-14,On Time,Credit Risk Reporting,DNB,0,3,13.5,5,Low
+RPT-0368,Liquidity Coverage Ratio (LCR) - 2025-M04,Liquidity Coverage Ratio (LCR),2025-M04,2025-05-15,2025-05-13,On Time,Regulatory Reporting - Liquidity,DNB,1,4,30.3,4,Medium
+RPT-0369,AnaCredit Report - 2025-M08,AnaCredit Report,2025-M08,2025-09-15,2025-09-18,Late,Credit Risk Reporting,DNB,2,9,108.2,3,High
+RPT-0370,AnaCredit Report - 2025-M06,AnaCredit Report,2025-M06,2025-07-15,2025-07-12,On Time,Credit Risk Reporting,DNB,0,2,40.0,4,Medium
+RPT-0371,COREP - Own Funds - 2025-Q3,COREP - Own Funds,2025-Q3,2025-10-30,2025-10-30,On Time,Regulatory Reporting - Capital,DNB,3,3,17.4,4,Medium
+RPT-0372,DNB Statistical Report - 2024-M10,DNB Statistical Report,2024-M10,2024-11-15,2024-11-15,On Time,Statistical Reporting,DNB,0,0,14.7,5,Low
+RPT-0373,Credit Risk RWA Report - 2024-M10,Credit Risk RWA Report,2024-M10,2024-11-15,2024-11-09,On Time,Credit Risk Reporting,Internal Risk Committee,3,2,31.2,4,Medium
+RPT-0374,COREP - Own Funds - 2024-Q3,COREP - Own Funds,2024-Q3,2024-10-30,2024-10-30,On Time,Regulatory Reporting - Capital,DNB,2,5,48.1,4,High
+RPT-0375,Credit Risk RWA Report - 2025-M04,Credit Risk RWA Report,2025-M04,2025-05-15,2025-05-18,Late,Credit Risk Reporting,Internal Risk Committee,2,6,62.2,3,High
+RPT-0376,Liquidity Coverage Ratio (LCR) - 2025-M05,Liquidity Coverage Ratio (LCR),2025-M05,2025-06-15,2025-06-15,On Time,Regulatory Reporting - Liquidity,DNB,2,8,56.7,4,High
+RPT-0377,AML/KYC Periodic Review - 2024-Q3,AML/KYC Periodic Review,2024-Q3,2024-10-30,2024-11-01,Late,AML & Compliance Reporting,Internal Compliance Committee,2,2,12.5,4,Low
+RPT-0378,Basel III Leverage Ratio - 2025-Q3,Basel III Leverage Ratio,2025-Q3,2025-10-30,2025-11-02,Late,Regulatory Reporting - Capital,ECB,0,1,10.0,4,Low
+RPT-0379,Liquidity Coverage Ratio (LCR) - 2025-M03,Liquidity Coverage Ratio (LCR),2025-M03,2025-04-15,2025-04-14,On Time,Regulatory Reporting - Liquidity,DNB,1,5,64.9,4,High
+RPT-0380,Large Exposures Report - 2024-Q2,Large Exposures Report,2024-Q2,2024-07-30,2024-07-28,On Time,Credit Risk Reporting,ECB,2,4,37.3,4,Medium
+RPT-0381,DNB Statistical Report - 2025-M07,DNB Statistical Report,2025-M07,2025-08-15,2025-08-12,On Time,Statistical Reporting,DNB,1,2,56.7,5,High
+RPT-0382,Liquidity Coverage Ratio (LCR) - 2024-M08,Liquidity Coverage Ratio (LCR),2024-M08,2024-09-15,2024-09-16,Late,Regulatory Reporting - Liquidity,DNB,1,3,36.1,4,Medium
+RPT-0383,Net Stable Funding Ratio (NSFR) - 2025-Q2,Net Stable Funding Ratio (NSFR),2025-Q2,2025-07-30,2025-07-20,On Time,Regulatory Reporting - Liquidity,DNB,0,2,13.9,5,Low
+RPT-0384,AML/KYC Periodic Review - 2024-Q2,AML/KYC Periodic Review,2024-Q2,2024-07-30,2024-07-28,On Time,AML & Compliance Reporting,Internal Compliance Committee,1,1,34.6,5,Medium
+RPT-0385,FINREP - Financial Reporting - 2025-Q2,FINREP - Financial Reporting,2025-Q2,2025-07-30,2025-07-31,Late,Regulatory Reporting - Capital,ECB,1,8,115.1,3,High
+RPT-0386,Liquidity Coverage Ratio (LCR) - 2024-M08,Liquidity Coverage Ratio (LCR),2024-M08,2024-09-15,2024-09-19,Late,Regulatory Reporting - Liquidity,DNB,4,4,109.3,3,High
+RPT-0387,AML/KYC Periodic Review - 2024-Q1,AML/KYC Periodic Review,2024-Q1,2024-04-30,2024-04-27,On Time,AML & Compliance Reporting,Internal Compliance Committee,2,2,40.5,4,Medium
+RPT-0388,DNB Statistical Report - 2024-M01,DNB Statistical Report,2024-M01,2024-02-15,2024-02-15,On Time,Statistical Reporting,DNB,5,5,21.9,3,Medium
+RPT-0389,Liquidity Coverage Ratio (LCR) - 2024-M06,Liquidity Coverage Ratio (LCR),2024-M06,2024-07-15,2024-07-16,Late,Regulatory Reporting - Liquidity,DNB,1,7,78.1,3,High
+RPT-0390,Basel III Leverage Ratio - 2025-Q3,Basel III Leverage Ratio,2025-Q3,2025-10-30,2025-10-31,Late,Regulatory Reporting - Capital,ECB,1,2,33.5,4,Medium
+RPT-0391,DNB Statistical Report - 2025-M06,DNB Statistical Report,2025-M06,2025-07-15,2025-07-11,On Time,Statistical Reporting,DNB,0,0,12.8,5,Low
+RPT-0392,COREP - Own Funds - 2025-Q3,COREP - Own Funds,2025-Q3,2025-10-30,2025-10-31,Late,Regulatory Reporting - Capital,DNB,2,4,22.6,3,Medium
+RPT-0393,DNB Statistical Report - 2024-M01,DNB Statistical Report,2024-M01,2024-02-15,2024-02-15,On Time,Statistical Reporting,DNB,0,0,15.3,5,Low
+RPT-0394,AnaCredit Report - 2024-M12,AnaCredit Report,2024-M12,2025-01-15,2025-01-15,On Time,Credit Risk Reporting,DNB,2,4,42.5,4,Medium
+RPT-0395,COREP - Own Funds - 2024-Q1,COREP - Own Funds,2024-Q1,2024-04-30,2024-04-24,On Time,Regulatory Reporting - Capital,DNB,0,4,41.3,4,Medium
+RPT-0396,Net Stable Funding Ratio (NSFR) - 2024-Q4,Net Stable Funding Ratio (NSFR),2024-Q4,2025-01-30,2025-01-28,On Time,Regulatory Reporting - Liquidity,DNB,1,1,28.2,5,Medium
+RPT-0397,FINREP - Financial Reporting - 2024-Q1,FINREP - Financial Reporting,2024-Q1,2024-04-30,2024-04-27,On Time,Regulatory Reporting - Capital,ECB,2,5,102.9,4,High
+RPT-0398,Basel III Leverage Ratio - 2024-Q2,Basel III Leverage Ratio,2024-Q2,2024-07-30,2024-07-28,On Time,Regulatory Reporting - Capital,ECB,3,2,94.6,4,High
+RPT-0399,COREP - Own Funds - 2024-Q2,COREP - Own Funds,2024-Q2,2024-07-30,2024-08-03,Late,Regulatory Reporting - Capital,DNB,4,7,65.5,3,High
+RPT-0400,Credit Risk RWA Report - 2024-M11,Credit Risk RWA Report,2024-M11,2024-12-15,2024-12-15,On Time,Credit Risk Reporting,Internal Risk Committee,5,9,79.9,3,High
+RPT-0401,Large Exposures Report - 2025-Q3,Large Exposures Report,2025-Q3,2025-10-30,2025-10-30,On Time,Credit Risk Reporting,ECB,1,1,35.1,4,Medium
+RPT-0402,Large Exposures Report - 2024-Q3,Large Exposures Report,2024-Q3,2024-10-30,2024-10-31,Late,Credit Risk Reporting,ECB,2,4,56.0,3,High
+RPT-0403,Net Stable Funding Ratio (NSFR) - 2024-Q2,Net Stable Funding Ratio (NSFR),2024-Q2,2024-07-30,2024-07-25,On Time,Regulatory Reporting - Liquidity,DNB,0,2,19.2,5,Medium
+RPT-0404,Liquidity Coverage Ratio (LCR) - 2025-M08,Liquidity Coverage Ratio (LCR),2025-M08,2025-09-15,2025-09-14,On Time,Regulatory Reporting - Liquidity,DNB,1,5,27.5,5,Medium
+RPT-0405,Liquidity Coverage Ratio (LCR) - 2024-M12,Liquidity Coverage Ratio (LCR),2024-M12,2025-01-15,2025-01-13,On Time,Regulatory Reporting - Liquidity,DNB,2,2,37.1,4,Medium
+RPT-0406,Large Exposures Report - 2024-Q2,Large Exposures Report,2024-Q2,2024-07-30,2024-08-04,Late,Credit Risk Reporting,ECB,0,1,21.5,4,Low
+RPT-0407,Credit Risk RWA Report - 2024-M12,Credit Risk RWA Report,2024-M12,2025-01-15,2025-01-14,On Time,Credit Risk Reporting,Internal Risk Committee,0,2,16.6,4,Medium
+RPT-0408,Large Exposures Report - 2024-Q1,Large Exposures Report,2024-Q1,2024-04-30,2024-04-29,On Time,Credit Risk Reporting,ECB,1,3,30.5,5,Medium
+RPT-0409,Liquidity Coverage Ratio (LCR) - 2025-M03,Liquidity Coverage Ratio (LCR),2025-M03,2025-04-15,2025-04-16,Late,Regulatory Reporting - Liquidity,DNB,2,1,20.9,4,Medium
+RPT-0410,FINREP - Financial Reporting - 2024-Q1,FINREP - Financial Reporting,2024-Q1,2024-04-30,2024-04-23,On Time,Regulatory Reporting - Capital,ECB,2,2,52.6,4,High
+RPT-0411,AML/KYC Periodic Review - 2024-Q2,AML/KYC Periodic Review,2024-Q2,2024-07-30,2024-07-30,On Time,AML & Compliance Reporting,Internal Compliance Committee,3,4,88.8,4,High
+RPT-0412,Large Exposures Report - 2025-Q2,Large Exposures Report,2025-Q2,2025-07-30,2025-07-31,Late,Credit Risk Reporting,ECB,5,8,78.6,3,High
+RPT-0413,Large Exposures Report - 2025-Q3,Large Exposures Report,2025-Q3,2025-10-30,2025-10-26,On Time,Credit Risk Reporting,ECB,3,0,25.8,5,Medium
+RPT-0414,FINREP - Financial Reporting - 2024-Q2,FINREP - Financial Reporting,2024-Q2,2024-07-30,2024-07-30,On Time,Regulatory Reporting - Capital,ECB,4,6,66.9,4,High
+RPT-0415,Basel III Leverage Ratio - 2024-Q3,Basel III Leverage Ratio,2024-Q3,2024-10-30,2024-10-22,On Time,Regulatory Reporting - Capital,ECB,1,1,15.7,5,Medium
+RPT-0416,Credit Risk RWA Report - 2025-M03,Credit Risk RWA Report,2025-M03,2025-04-15,2025-04-13,On Time,Credit Risk Reporting,Internal Risk Committee,1,2,38.0,5,Medium
+RPT-0417,Large Exposures Report - 2024-Q1,Large Exposures Report,2024-Q1,2024-04-30,2024-04-28,On Time,Credit Risk Reporting,ECB,2,1,12.3,4,Low
+RPT-0418,Net Stable Funding Ratio (NSFR) - 2024-Q1,Net Stable Funding Ratio (NSFR),2024-Q1,2024-04-30,2024-04-30,On Time,Regulatory Reporting - Liquidity,DNB,1,5,87.1,4,High
+RPT-0419,Large Exposures Report - 2024-Q1,Large Exposures Report,2024-Q1,2024-04-30,2024-04-26,On Time,Credit Risk Reporting,ECB,0,1,38.6,5,Medium
+RPT-0420,Credit Risk RWA Report - 2024-M12,Credit Risk RWA Report,2024-M12,2025-01-15,2025-01-13,On Time,Credit Risk Reporting,Internal Risk Committee,2,3,33.5,4,Medium
+RPT-0421,AnaCredit Report - 2024-M10,AnaCredit Report,2024-M10,2024-11-15,2024-11-12,On Time,Credit Risk Reporting,DNB,1,6,26.0,4,Medium
+RPT-0422,FINREP - Financial Reporting - 2025-Q2,FINREP - Financial Reporting,2025-Q2,2025-07-30,2025-08-04,Late,Regulatory Reporting - Capital,ECB,2,6,22.0,4,Medium
+RPT-0423,Liquidity Coverage Ratio (LCR) - 2025-M06,Liquidity Coverage Ratio (LCR),2025-M06,2025-07-15,2025-07-19,Late,Regulatory Reporting - Liquidity,DNB,3,2,38.8,4,Medium
+RPT-0424,AnaCredit Report - 2025-M04,AnaCredit Report,2025-M04,2025-05-15,2025-05-15,On Time,Credit Risk Reporting,DNB,0,1,17.8,4,Low
+RPT-0425,Net Stable Funding Ratio (NSFR) - 2024-Q1,Net Stable Funding Ratio (NSFR),2024-Q1,2024-04-30,2024-05-02,Late,Regulatory Reporting - Liquidity,DNB,1,3,44.9,4,Medium
+RPT-0426,Net Stable Funding Ratio (NSFR) - 2024-Q1,Net Stable Funding Ratio (NSFR),2024-Q1,2024-04-30,2024-04-30,On Time,Regulatory Reporting - Liquidity,DNB,2,7,31.9,4,Medium
+RPT-0427,AnaCredit Report - 2024-M11,AnaCredit Report,2024-M11,2024-12-15,2024-12-10,On Time,Credit Risk Reporting,DNB,2,2,76.1,4,High
+RPT-0428,DNB Statistical Report - 2025-M05,DNB Statistical Report,2025-M05,2025-06-15,2025-06-11,On Time,Statistical Reporting,DNB,1,1,17.9,4,Low
+RPT-0429,Credit Risk RWA Report - 2024-M04,Credit Risk RWA Report,2024-M04,2024-05-15,2024-05-17,Late,Credit Risk Reporting,Internal Risk Committee,4,11,64.9,3,High
+RPT-0430,Liquidity Coverage Ratio (LCR) - 2025-M05,Liquidity Coverage Ratio (LCR),2025-M05,2025-06-15,2025-06-14,On Time,Regulatory Reporting - Liquidity,DNB,1,2,52.1,4,High
+RPT-0431,COREP - Own Funds - 2024-Q4,COREP - Own Funds,2024-Q4,2025-01-30,2025-01-30,On Time,Regulatory Reporting - Capital,DNB,0,4,56.8,5,High
+RPT-0432,AML/KYC Periodic Review - 2025-Q3,AML/KYC Periodic Review,2025-Q3,2025-10-30,2025-10-28,On Time,AML & Compliance Reporting,Internal Compliance Committee,1,4,59.1,5,High
+RPT-0433,Basel III Leverage Ratio - 2024-Q2,Basel III Leverage Ratio,2024-Q2,2024-07-30,2024-07-28,On Time,Regulatory Reporting - Capital,ECB,4,3,16.7,4,Medium
+RPT-0434,DNB Statistical Report - 2024-M01,DNB Statistical Report,2024-M01,2024-02-15,2024-02-16,Late,Statistical Reporting,DNB,0,3,22.0,4,Medium
+RPT-0435,Net Stable Funding Ratio (NSFR) - 2025-Q3,Net Stable Funding Ratio (NSFR),2025-Q3,2025-10-30,2025-10-31,Late,Regulatory Reporting - Liquidity,DNB,1,1,11.8,4,Low
+RPT-0436,DNB Statistical Report - 2024-M07,DNB Statistical Report,2024-M07,2024-08-15,2024-08-16,Late,Statistical Reporting,DNB,2,1,9.1,3,Low
+RPT-0437,Basel III Leverage Ratio - 2024-Q1,Basel III Leverage Ratio,2024-Q1,2024-04-30,2024-05-02,Late,Regulatory Reporting - Capital,ECB,5,5,90.3,3,High
+RPT-0438,Large Exposures Report - 2025-Q1,Large Exposures Report,2025-Q1,2025-04-30,2025-04-30,On Time,Credit Risk Reporting,ECB,0,2,28.7,5,Medium
+RPT-0439,Liquidity Coverage Ratio (LCR) - 2025-M01,Liquidity Coverage Ratio (LCR),2025-M01,2025-02-15,2025-02-14,On Time,Regulatory Reporting - Liquidity,DNB,0,1,23.0,5,Low
+RPT-0440,DNB Statistical Report - 2024-M03,DNB Statistical Report,2024-M03,2024-04-15,2024-04-15,On Time,Statistical Reporting,DNB,1,4,32.4,5,Medium
+RPT-0441,DNB Statistical Report - 2024-M09,DNB Statistical Report,2024-M09,2024-10-15,2024-10-15,On Time,Statistical Reporting,DNB,3,10,82.8,3,High
+RPT-0442,Liquidity Coverage Ratio (LCR) - 2024-M10,Liquidity Coverage Ratio (LCR),2024-M10,2024-11-15,2024-11-17,Late,Regulatory Reporting - Liquidity,DNB,4,5,79.4,3,High
+RPT-0443,AnaCredit Report - 2025-M01,AnaCredit Report,2025-M01,2025-02-15,2025-02-15,On Time,Credit Risk Reporting,DNB,0,3,41.5,4,Medium
+RPT-0444,AnaCredit Report - 2025-M08,AnaCredit Report,2025-M08,2025-09-15,2025-09-19,Late,Credit Risk Reporting,DNB,1,7,92.1,3,High
+RPT-0445,AML/KYC Periodic Review - 2024-Q4,AML/KYC Periodic Review,2024-Q4,2025-01-30,2025-01-26,On Time,AML & Compliance Reporting,Internal Compliance Committee,1,3,38.9,5,Medium
+RPT-0446,COREP - Own Funds - 2024-Q3,COREP - Own Funds,2024-Q3,2024-10-30,2024-10-29,On Time,Regulatory Reporting - Capital,DNB,0,5,44.3,4,High
+RPT-0447,FINREP - Financial Reporting - 2025-Q1,FINREP - Financial Reporting,2025-Q1,2025-04-30,2025-04-29,On Time,Regulatory Reporting - Capital,ECB,2,7,107.0,4,High
+RPT-0448,Credit Risk RWA Report - 2025-M05,Credit Risk RWA Report,2025-M05,2025-06-15,2025-06-20,Late,Credit Risk Reporting,Internal Risk Committee,3,6,88.9,3,High
+RPT-0449,FINREP - Financial Reporting - 2025-Q1,FINREP - Financial Reporting,2025-Q1,2025-04-30,2025-05-03,Late,Regulatory Reporting - Capital,ECB,5,11,108.7,2,High
+RPT-0450,FINREP - Financial Reporting - 2024-Q2,FINREP - Financial Reporting,2024-Q2,2024-07-30,2024-08-01,Late,Regulatory Reporting - Capital,ECB,0,6,32.6,4,Medium
+RPT-0451,Large Exposures Report - 2024-Q1,Large Exposures Report,2024-Q1,2024-04-30,2024-05-02,Late,Credit Risk Reporting,ECB,1,5,44.9,3,Medium
+RPT-0452,Credit Risk RWA Report - 2025-M01,Credit Risk RWA Report,2025-M01,2025-02-15,2025-02-19,Late,Credit Risk Reporting,Internal Risk Committee,1,3,33.5,4,Medium
+RPT-0453,DNB Statistical Report - 2024-M02,DNB Statistical Report,2024-M02,2024-03-15,2024-03-09,On Time,Statistical Reporting,DNB,0,1,15.7,5,Low
+RPT-0454,COREP - Own Funds - 2025-Q3,COREP - Own Funds,2025-Q3,2025-10-30,2025-10-30,On Time,Regulatory Reporting - Capital,DNB,3,7,93.4,3,High
+RPT-0455,AML/KYC Periodic Review - 2025-Q2,AML/KYC Periodic Review,2025-Q2,2025-07-30,2025-07-28,On Time,AML & Compliance Reporting,Internal Compliance Committee,0,2,20.4,5,Medium
+RPT-0456,Basel III Leverage Ratio - 2025-Q3,Basel III Leverage Ratio,2025-Q3,2025-10-30,2025-10-28,On Time,Regulatory Reporting - Capital,ECB,2,7,55.3,3,High
+RPT-0457,Liquidity Coverage Ratio (LCR) - 2025-M07,Liquidity Coverage Ratio (LCR),2025-M07,2025-08-15,2025-08-17,Late,Regulatory Reporting - Liquidity,DNB,0,5,88.9,4,High
+RPT-0458,Net Stable Funding Ratio (NSFR) - 2024-Q4,Net Stable Funding Ratio (NSFR),2024-Q4,2025-01-30,2025-02-04,Late,Regulatory Reporting - Liquidity,DNB,0,3,45.0,4,Medium
+RPT-0459,COREP - Own Funds - 2024-Q1,COREP - Own Funds,2024-Q1,2024-04-30,2024-04-30,On Time,Regulatory Reporting - Capital,DNB,1,3,28.4,4,Medium
+RPT-0460,AML/KYC Periodic Review - 2025-Q1,AML/KYC Periodic Review,2025-Q1,2025-04-30,2025-04-30,On Time,AML & Compliance Reporting,Internal Compliance Committee,2,4,106.0,5,High
+RPT-0461,Large Exposures Report - 2024-Q3,Large Exposures Report,2024-Q3,2024-10-30,2024-11-05,Missed,Credit Risk Reporting,ECB,5,3,37.6,2,Medium
+RPT-0462,FINREP - Financial Reporting - 2024-Q2,FINREP - Financial Reporting,2024-Q2,2024-07-30,2024-07-29,On Time,Regulatory Reporting - Capital,ECB,5,6,53.4,3,High
+RPT-0463,FINREP - Financial Reporting - 2025-Q1,FINREP - Financial Reporting,2025-Q1,2025-04-30,2025-05-02,Late,Regulatory Reporting - Capital,ECB,5,7,59.7,3,High
+RPT-0464,Liquidity Coverage Ratio (LCR) - 2024-M09,Liquidity Coverage Ratio (LCR),2024-M09,2024-10-15,2024-10-15,On Time,Regulatory Reporting - Liquidity,DNB,2,3,20.5,4,Medium
+RPT-0465,Large Exposures Report - 2024-Q3,Large Exposures Report,2024-Q3,2024-10-30,2024-11-03,Late,Credit Risk Reporting,ECB,1,9,82.7,4,High
+RPT-0466,AML/KYC Periodic Review - 2025-Q2,AML/KYC Periodic Review,2025-Q2,2025-07-30,2025-07-27,On Time,AML & Compliance Reporting,Internal Compliance Committee,1,3,10.8,4,Low
+RPT-0467,Basel III Leverage Ratio - 2024-Q2,Basel III Leverage Ratio,2024-Q2,2024-07-30,2024-07-24,On Time,Regulatory Reporting - Capital,ECB,2,3,16.4,4,Medium
+RPT-0468,Liquidity Coverage Ratio (LCR) - 2025-M08,Liquidity Coverage Ratio (LCR),2025-M08,2025-09-15,2025-09-12,On Time,Regulatory Reporting - Liquidity,DNB,1,1,31.2,4,Medium
+RPT-0469,COREP - Own Funds - 2024-Q4,COREP - Own Funds,2024-Q4,2025-01-30,2025-02-02,Late,Regulatory Reporting - Capital,DNB,6,9,74.1,2,High
+RPT-0470,AML/KYC Periodic Review - 2024-Q4,AML/KYC Periodic Review,2024-Q4,2025-01-30,2025-02-06,Missed,AML & Compliance Reporting,Internal Compliance Committee,3,8,51.2,2,High
+RPT-0471,FINREP - Financial Reporting - 2025-Q2,FINREP - Financial Reporting,2025-Q2,2025-07-30,2025-08-04,Late,Regulatory Reporting - Capital,ECB,3,6,107.3,3,High
+RPT-0472,Credit Risk RWA Report - 2024-M02,Credit Risk RWA Report,2024-M02,2024-03-15,2024-03-18,Late,Credit Risk Reporting,Internal Risk Committee,2,3,41.1,4,Medium
+RPT-0473,COREP - Own Funds - 2024-Q3,COREP - Own Funds,2024-Q3,2024-10-30,2024-10-27,On Time,Regulatory Reporting - Capital,DNB,4,7,61.6,3,High
+RPT-0474,Large Exposures Report - 2024-Q2,Large Exposures Report,2024-Q2,2024-07-30,2024-07-23,On Time,Credit Risk Reporting,ECB,4,8,57.7,3,High
+RPT-0475,AML/KYC Periodic Review - 2024-Q4,AML/KYC Periodic Review,2024-Q4,2025-01-30,2025-01-31,Late,AML & Compliance Reporting,Internal Compliance Committee,6,9,72.5,3,High
+RPT-0476,COREP - Own Funds - 2024-Q1,COREP - Own Funds,2024-Q1,2024-04-30,2024-05-09,Missed,Regulatory Reporting - Capital,DNB,3,6,68.0,2,High
+RPT-0477,FINREP - Financial Reporting - 2024-Q4,FINREP - Financial Reporting,2024-Q4,2025-01-30,2025-01-30,On Time,Regulatory Reporting - Capital,ECB,2,3,106.2,4,High
+RPT-0478,COREP - Own Funds - 2025-Q3,COREP - Own Funds,2025-Q3,2025-10-30,2025-10-28,On Time,Regulatory Reporting - Capital,DNB,0,1,5.8,5,Low
+RPT-0479,DNB Statistical Report - 2024-M07,DNB Statistical Report,2024-M07,2024-08-15,2024-08-18,Late,Statistical Reporting,DNB,0,3,5.5,4,Low
+RPT-0480,Basel III Leverage Ratio - 2024-Q1,Basel III Leverage Ratio,2024-Q1,2024-04-30,2024-04-25,On Time,Regulatory Reporting - Capital,ECB,0,3,29.8,4,Medium
+RPT-0481,Credit Risk RWA Report - 2025-M05,Credit Risk RWA Report,2025-M05,2025-06-15,2025-06-18,Late,Credit Risk Reporting,Internal Risk Committee,1,5,62.0,4,High
+RPT-0482,Liquidity Coverage Ratio (LCR) - 2025-M08,Liquidity Coverage Ratio (LCR),2025-M08,2025-09-15,2025-09-14,On Time,Regulatory Reporting - Liquidity,DNB,0,0,16.6,5,Low
+RPT-0483,Liquidity Coverage Ratio (LCR) - 2025-M05,Liquidity Coverage Ratio (LCR),2025-M05,2025-06-15,2025-06-13,On Time,Regulatory Reporting - Liquidity,DNB,2,3,31.2,4,Medium
+RPT-0484,Net Stable Funding Ratio (NSFR) - 2024-Q1,Net Stable Funding Ratio (NSFR),2024-Q1,2024-04-30,2024-05-08,Missed,Regulatory Reporting - Liquidity,DNB,0,4,25.4,3,Medium
+RPT-0485,FINREP - Financial Reporting - 2024-Q4,FINREP - Financial Reporting,2024-Q4,2025-01-30,2025-02-02,Late,Regulatory Reporting - Capital,ECB,2,5,60.4,4,High
+RPT-0486,AnaCredit Report - 2024-M08,AnaCredit Report,2024-M08,2024-09-15,2024-09-05,On Time,Credit Risk Reporting,DNB,0,0,11.5,5,Low
+RPT-0487,AnaCredit Report - 2024-M09,AnaCredit Report,2024-M09,2024-10-15,2024-10-17,Late,Credit Risk Reporting,DNB,2,4,79.8,4,High
+RPT-0488,AnaCredit Report - 2025-M09,AnaCredit Report,2025-M09,2025-10-15,2025-10-15,On Time,Credit Risk Reporting,DNB,0,2,4.6,5,Low
+RPT-0489,Net Stable Funding Ratio (NSFR) - 2025-Q1,Net Stable Funding Ratio (NSFR),2025-Q1,2025-04-30,2025-04-28,On Time,Regulatory Reporting - Liquidity,DNB,1,1,23.5,4,Medium
+RPT-0490,DNB Statistical Report - 2024-M11,DNB Statistical Report,2024-M11,2024-12-15,2024-12-14,On Time,Statistical Reporting,DNB,0,0,10.5,4,Low
+RPT-0491,Net Stable Funding Ratio (NSFR) - 2025-Q1,Net Stable Funding Ratio (NSFR),2025-Q1,2025-04-30,2025-04-28,On Time,Regulatory Reporting - Liquidity,DNB,1,0,20.4,4,Low
+RPT-0492,Large Exposures Report - 2024-Q3,Large Exposures Report,2024-Q3,2024-10-30,2024-10-25,On Time,Credit Risk Reporting,ECB,0,0,14.8,4,Low
+RPT-0493,DNB Statistical Report - 2024-M04,DNB Statistical Report,2024-M04,2024-05-15,2024-05-16,Late,Statistical Reporting,DNB,2,2,40.2,3,Medium
+RPT-0494,Liquidity Coverage Ratio (LCR) - 2024-M03,Liquidity Coverage Ratio (LCR),2024-M03,2024-04-15,2024-04-17,Late,Regulatory Reporting - Liquidity,DNB,2,2,24.1,4,Medium
+RPT-0495,DNB Statistical Report - 2024-M06,DNB Statistical Report,2024-M06,2024-07-15,2024-07-09,On Time,Statistical Reporting,DNB,0,0,20.8,5,Medium
+RPT-0496,FINREP - Financial Reporting - 2024-Q1,FINREP - Financial Reporting,2024-Q1,2024-04-30,2024-05-04,Late,Regulatory Reporting - Capital,ECB,4,6,75.8,3,High
+RPT-0497,Basel III Leverage Ratio - 2025-Q1,Basel III Leverage Ratio,2025-Q1,2025-04-30,2025-04-25,On Time,Regulatory Reporting - Capital,ECB,0,2,19.1,5,Low
+RPT-0498,Net Stable Funding Ratio (NSFR) - 2025-Q2,Net Stable Funding Ratio (NSFR),2025-Q2,2025-07-30,2025-08-03,Late,Regulatory Reporting - Liquidity,DNB,9,7,81.8,2,High
+RPT-0499,Liquidity Coverage Ratio (LCR) - 2025-M09,Liquidity Coverage Ratio (LCR),2025-M09,2025-10-15,2025-10-13,On Time,Regulatory Reporting - Liquidity,DNB,0,2,15.2,4,Low
+RPT-0500,COREP - Own Funds - 2025-Q2,COREP - Own Funds,2025-Q2,2025-07-30,2025-08-05,Missed,Regulatory Reporting - Capital,DNB,5,7,91.9,2,High
+RPT-0501,COREP - Own Funds - 2025-Q1,COREP - Own Funds,2025-Q1,2025-04-30,2025-04-28,On Time,Regulatory Reporting - Capital,DNB,0,2,41.4,5,Medium
+RPT-0502,FINREP - Financial Reporting - 2024-Q2,FINREP - Financial Reporting,2024-Q2,2024-07-30,2024-07-23,On Time,Regulatory Reporting - Capital,ECB,3,4,20.5,4,Medium
+RPT-0503,Liquidity Coverage Ratio (LCR) - 2024-M01,Liquidity Coverage Ratio (LCR),2024-M01,2024-02-15,2024-02-15,On Time,Regulatory Reporting - Liquidity,DNB,1,1,11.9,5,Low
+RPT-0504,FINREP - Financial Reporting - 2025-Q1,FINREP - Financial Reporting,2025-Q1,2025-04-30,2025-04-28,On Time,Regulatory Reporting - Capital,ECB,1,9,37.8,4,Medium
+RPT-0505,AML/KYC Periodic Review - 2024-Q1,AML/KYC Periodic Review,2024-Q1,2024-04-30,2024-05-02,Late,AML & Compliance Reporting,Internal Compliance Committee,0,6,35.0,4,Medium
+RPT-0506,COREP - Own Funds - 2025-Q2,COREP - Own Funds,2025-Q2,2025-07-30,2025-08-03,Late,Regulatory Reporting - Capital,DNB,1,4,102.3,4,High
+RPT-0507,COREP - Own Funds - 2024-Q3,COREP - Own Funds,2024-Q3,2024-10-30,2024-10-31,Late,Regulatory Reporting - Capital,DNB,1,2,19.4,4,Low
+RPT-0508,Large Exposures Report - 2024-Q1,Large Exposures Report,2024-Q1,2024-04-30,2024-05-01,Late,Credit Risk Reporting,ECB,6,11,49.3,2,High
+RPT-0509,DNB Statistical Report - 2024-M08,DNB Statistical Report,2024-M08,2024-09-15,2024-09-17,Late,Statistical Reporting,DNB,4,5,18.6,4,Medium
+RPT-0510,AnaCredit Report - 2024-M09,AnaCredit Report,2024-M09,2024-10-15,2024-10-13,On Time,Credit Risk Reporting,DNB,0,0,12.9,5,Low
+RPT-0511,AnaCredit Report - 2025-M07,AnaCredit Report,2025-M07,2025-08-15,2025-08-14,On Time,Credit Risk Reporting,DNB,1,1,23.9,4,Medium
+RPT-0512,Credit Risk RWA Report - 2024-M09,Credit Risk RWA Report,2024-M09,2024-10-15,2024-10-14,On Time,Credit Risk Reporting,Internal Risk Committee,4,6,52.6,4,High
+RPT-0513,DNB Statistical Report - 2024-M12,DNB Statistical Report,2024-M12,2025-01-15,2025-01-12,On Time,Statistical Reporting,DNB,1,4,15.3,5,Medium
+RPT-0514,DNB Statistical Report - 2025-M05,DNB Statistical Report,2025-M05,2025-06-15,2025-06-14,On Time,Statistical Reporting,DNB,3,5,36.2,4,Medium
+RPT-0515,Credit Risk RWA Report - 2024-M06,Credit Risk RWA Report,2024-M06,2024-07-15,2024-07-12,On Time,Credit Risk Reporting,Internal Risk Committee,1,1,8.2,4,Low
+RPT-0516,DNB Statistical Report - 2025-M08,DNB Statistical Report,2025-M08,2025-09-15,2025-09-12,On Time,Statistical Reporting,DNB,0,2,3.7,5,Low
+RPT-0517,DNB Statistical Report - 2025-M03,DNB Statistical Report,2025-M03,2025-04-15,2025-04-14,On Time,Statistical Reporting,DNB,0,0,12.0,5,Low
+RPT-0518,Liquidity Coverage Ratio (LCR) - 2024-M05,Liquidity Coverage Ratio (LCR),2024-M05,2024-06-15,2024-06-15,On Time,Regulatory Reporting - Liquidity,DNB,2,1,31.2,5,Medium
+RPT-0519,Basel III Leverage Ratio - 2024-Q4,Basel III Leverage Ratio,2024-Q4,2025-01-30,2025-01-31,Late,Regulatory Reporting - Capital,ECB,3,4,63.3,3,High
+RPT-0520,Large Exposures Report - 2024-Q3,Large Exposures Report,2024-Q3,2024-10-30,2024-10-24,On Time,Credit Risk Reporting,ECB,1,1,19.0,5,Low
